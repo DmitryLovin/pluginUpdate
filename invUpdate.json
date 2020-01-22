@@ -1,6 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
   "1.15.1": {
+    "1.3": "Some lang fixes",
     "2.0": "New features: armor damage hud & potions hud" 
   },
   "promos": {
