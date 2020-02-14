@@ -1,0 +1,16 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/are-you-blind",
+  "1.15.1": {
+    "1.0.1": "kind of optiomization, and 1.15.1 support",
+    "1.0.2": "fade effect",
+  },
+  "1.15.2": {
+    "1.0.2": "kind of optiomization, and 1.15.2 support, fade effect",
+  },
+  "promos": {
+    "1.15.1-latest": "1.0.2",
+    "1.15.1-recommended": "1.0.2",
+    "1.15.1-latest": "1.0.2",
+    "1.15.1-recommended": "1.0.2"
+  }
+}
