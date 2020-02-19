@@ -2,9 +2,15 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/castia-tier-highlighter",
   "1.15.1": {
     "1.1": "kind of optiomization, and 1.15.1 support",
+    "2.0": "added Inventory tools",
+  },
+  "1.15.2": {
+    "2.0": "added Inventory tools",
   },
   "promos": {
     "1.15.1-latest": "1.1",
-    "1.15.1-recommended": "1.1"
+    "1.15.1-recommended": "1.1",
+    "1.15.2-latest": "2.0",
+    "1.15.2-recommended": "2.0"
   }
 }
