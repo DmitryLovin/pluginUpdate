@@ -9,7 +9,10 @@
 - New ConfigGUI",
     "2.2.1": "Armor orientation fixes and Potion Y pos fixes",
     "2.3": "Now u can hide armor if durability is above what u set in config..",
-    "2.4": "new types of Orientation and you can change Orientation of any HUD"
+    "2.4": "new types of Orientation and you can change Orientation of any HUD",
+    "2.5": "- Now PotionHUD shows levels of the effects
+- Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
+- Fixed Issue #3 by 'SelfyxT'"
   },
   "1.15.1": {
     "1.3": "Some lang fixes",
@@ -20,25 +23,35 @@
 - New ConfigGUI",
     "2.2.1": "Armor orientation fixes and Potion Y pos fixes",
     "2.3": "Now u can hide armor if durability is above what u set in config.",
-    "2.4": "new types of Orientation and you can change Orientation of any HUD"
+    "2.4": "new types of Orientation and you can change Orientation of any HUD",
+    "2.5": "- Now PotionHUD shows levels of the effects
+- Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
+- Fixed Issue #3 by 'SelfyxT'"
   },
   "1.14.4":{
     "1.4": "Some lang fixes",
     "2.0": "New features: armor damage hud & potions hud",
-    "2.1": "Now has same features as 1.15 mod"
+    "2.1": "Now has same features as 1.15 mod",
+    "2.2": "- Now PotionHUD shows levels of the effects
+- Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
+- Fixed Issue #3 by 'SelfyxT'"
   },
   "1.12.2":{
     "1.0": "First release on 1.12.2",
-    "1.1": "Potion icons fixes"
+    "1.1": "Potion icons fixes",
+    "1.2": "- Now PotionHUD shows levels of the effects
+- Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
+- PotionHUD support even more mods now
+- Fixed Issue #3 by 'SelfyxT'"
   },
   "promos": {
-    "1.15.2-latest": "2.4",
-    "1.15.2-recommended": "2.4",
-    "1.15.1-latest": "2.4",
-    "1.15.1-recommended": "2.4",
-    "1.14.4-latest": "2.1",
-    "1.14.4-recommended": "2.1",
-    "1.12.2-latest": "1.1",
-    "1.12.2-recommended": "1.1"
+    "1.15.2-latest": "2.5",
+    "1.15.2-recommended": "2.5",
+    "1.15.1-latest": "2.5",
+    "1.15.1-recommended": "2.5",
+    "1.14.4-latest": "2.2",
+    "1.14.4-recommended": "2.2",
+    "1.12.2-latest": "1.2",
+    "1.12.2-recommended": "1.2"
   }
 }
