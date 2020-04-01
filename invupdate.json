@@ -42,7 +42,8 @@
     "1.2": "- Now PotionHUD shows levels of the effects
 - Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
 - PotionHUD support even more mods now
-- Fixed Issue #3 by 'SelfyxT'"
+- Fixed Issue #3 by 'SelfyxT'",
+    "1.2.1": "added more mods for PotionHUD"
   },
   "promos": {
     "1.15.2-latest": "2.5",
@@ -51,7 +52,7 @@
     "1.15.1-recommended": "2.5",
     "1.14.4-latest": "2.2",
     "1.14.4-recommended": "2.2",
-    "1.12.2-latest": "1.2",
-    "1.12.2-recommended": "1.2"
+    "1.12.2-latest": "1.2.1",
+    "1.12.2-recommended": "1.2.1"
   }
 }
