@@ -12,7 +12,8 @@
     "2.4": "new types of Orientation and you can change Orientation of any HUD",
     "2.5": "- Now PotionHUD shows levels of the effects
 - Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
-- Fixed Issue #3 by 'SelfyxT'"
+- Fixed Issue #3 by 'SelfyxT'",
+    "2.6": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config"
   },
   "1.15.1": {
     "1.3": "Some lang fixes",
@@ -26,7 +27,8 @@
     "2.4": "new types of Orientation and you can change Orientation of any HUD",
     "2.5": "- Now PotionHUD shows levels of the effects
 - Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
-- Fixed Issue #3 by 'SelfyxT'"
+- Fixed Issue #3 by 'SelfyxT'",
+    "2.6": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config"
   },
   "1.14.4":{
     "1.4": "Some lang fixes",
@@ -34,7 +36,8 @@
     "2.1": "Now has same features as 1.15 mod",
     "2.2": "- Now PotionHUD shows levels of the effects
 - Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
-- Fixed Issue #3 by 'SelfyxT'"
+- Fixed Issue #3 by 'SelfyxT'",
+    "2.3": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config"
   },
   "1.12.2":{
     "1.0": "First release on 1.12.2",
@@ -43,16 +46,17 @@
 - Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
 - PotionHUD support even more mods now
 - Fixed Issue #3 by 'SelfyxT'",
-    "1.2.1": "added more mods for PotionHUD"
+    "1.2.1": "added more mods for PotionHUD".
+    "1.3": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config"
   },
   "promos": {
-    "1.15.2-latest": "2.5",
-    "1.15.2-recommended": "2.5",
-    "1.15.1-latest": "2.5",
-    "1.15.1-recommended": "2.5",
-    "1.14.4-latest": "2.2",
-    "1.14.4-recommended": "2.2",
-    "1.12.2-latest": "1.2.1",
-    "1.12.2-recommended": "1.2.1"
+    "1.15.2-latest": "2.6",
+    "1.15.2-recommended": "2.6",
+    "1.15.1-latest": "2.6",
+    "1.15.1-recommended": "2.6",
+    "1.14.4-latest": "2.3",
+    "1.14.4-recommended": "2.3",
+    "1.12.2-latest": "1.3",
+    "1.12.2-recommended": "1.3"
   }
 }
