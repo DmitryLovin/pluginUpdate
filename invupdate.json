@@ -1,5 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
+  "1.16.1":{
+    "3.0": "- new mini mode for Potion HUD
+ - Armor HUD now shows count of arrows in 'full plus inv" mode
+ - new Ingame config menu, where you can change position of the HUDs and toggle them on/off"
+  },
   "1.15.2": {
     "1.3": "Some lang fixes",
     "2.0": "New features: armor damage hud & potions hud", 
@@ -14,7 +19,10 @@
 - Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
 - Fixed Issue #3 by 'SelfyxT'",
     "2.6": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config",
-    "2.6.1": "Fixed Issue #4 by sandalle"
+    "2.6.1": "Fixed Issue #4 by sandalle",
+    "3.0": "- new mini mode for Potion HUD
+ - Armor HUD now shows count of arrows in 'full plus inv" mode
+ - new Ingame config menu, where you can change position of the HUDs and toggle them on/off"
   },
   "1.15.1": {
     "1.3": "Some lang fixes",
@@ -30,7 +38,10 @@
 - Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
 - Fixed Issue #3 by 'SelfyxT'",
     "2.6": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config",
-    "2.6.1": "Fixed Issue #4 by sandalle"
+    "2.6.1": "Fixed Issue #4 by sandalle",
+    "3.0": "- new mini mode for Potion HUD
+ - Armor HUD now shows count of arrows in 'full plus inv" mode
+ - new Ingame config menu, where you can change position of the HUDs and toggle them on/off"
   },
   "1.14.4":{
     "1.4": "Some lang fixes",
@@ -40,7 +51,10 @@
 - Now you can change alpha of PotionHUD background. Suggested by 'pyrezombie'
 - Fixed Issue #3 by 'SelfyxT'",
     "2.3": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config",
-    "2.3.1": "Fixed Issue #4 by sandalle"
+    "2.3.1": "Fixed Issue #4 by sandalle",
+    "3.0": "- new mini mode for Potion HUD
+ - Armor HUD now shows count of arrows in 'full plus inv" mode
+ - new Ingame config menu, where you can change position of the HUDs and toggle them on/off"
   },
   "1.12.2":{
     "1.0": "First release on 1.12.2",
@@ -55,12 +69,14 @@
     "1.3.2": "Crash fixes!!!"
   },
   "promos": {
-    "1.15.2-latest": "2.6.1",
-    "1.15.2-recommended": "2.6.1",
-    "1.15.1-latest": "2.6.1",
-    "1.15.1-recommended": "2.6.1",
-    "1.14.4-latest": "2.3.1",
-    "1.14.4-recommended": "2.3.1",
+    "1.16.1-latest": "3.0",
+    "1.16.1-recommended": "3.0",
+    "1.15.2-latest": "3.0",
+    "1.15.2-recommended": "3.0",
+    "1.15.1-latest": "3.0",
+    "1.15.1-recommended": "3.0",
+    "1.14.4-latest": "3.0",
+    "1.14.4-recommended": "3.0",
     "1.12.2-latest": "1.3.2",
     "1.12.2-recommended": "1.3.2"
   }
