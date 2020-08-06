@@ -69,7 +69,11 @@
     "1.2.1": "added more mods for PotionHUD",
     "1.3": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config",
     "1.3.1": "Fixed Issue #4 by sandalle",
-    "1.3.2": "Crash fixes!!!"
+    "1.3.2": "Crash fixes!!!",
+    "3.0.1": "- new mini mode for Potion HUD
+- Armor HUD now shows count of arrows in full plus inv mode
+- new Ingame config menu, where you can change position of the HUDs and toggle them on/off"
+- mod config screen now the same as in 1.14.4+ versions"
   },
   "promos": {
     "1.16.1-latest": "3.0.1",
@@ -80,7 +84,7 @@
     "1.15.1-recommended": "3.0",
     "1.14.4-latest": "3.0.1",
     "1.14.4-recommended": "3.0.1",
-    "1.12.2-latest": "1.3.2",
-    "1.12.2-recommended": "1.3.2"
+    "1.12.2-latest": "3.0.1",
+    "1.12.2-recommended": "3.0.1"
   }
 }
