@@ -1,10 +1,11 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/teldaria-helper",
   "1.15.2": {
-    "1.1.0": "kind of optiomization, and 1.15.1 support"
+    "1.1.0": "release",
+    "1.2.0": "Shop prices are now downloading from external json file, can be updated without updating the plugin itself"
   },
   "promos": {
-    "1.15.2-latest": "1.1.0",
-    "1.15.2-recommended": "1.1.0"
+    "1.15.2-latest": "1.2.0",
+    "1.15.2-recommended": "1.2.0"
   }
 }
