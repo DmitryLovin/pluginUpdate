@@ -98,7 +98,8 @@
 - mod config screen now the same as in 1.14.4+ versions",
     "3.1.0": "- new vertical mode for InventoryHUD
     - new mini mode for InventoryHUD
-    - PotionHUD now has gap option"
+    - PotionHUD now has gap option",
+    "3.1.1": "fixed bug when bag and quiver had wrong color, thx Ackmard for report!"
   },
   "promos": {
     "1.16.2-latest": "3.1.0",
@@ -111,7 +112,7 @@
     "1.15.1-recommended": "3.0",
     "1.14.4-latest": "3.1.0",
     "1.14.4-recommended": "3.1.0",
-    "1.12.2-latest": "3.1.0",
-    "1.12.2-recommended": "3.1.0"
+    "1.12.2-latest": "3.1.1",
+    "1.12.2-recommended": "3.1.1"
   }
 }
