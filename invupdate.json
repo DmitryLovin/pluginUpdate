@@ -16,7 +16,9 @@
 - fixed issue #7 By just_some_user
 - changed default key binding for options, now 'O'
 - key binding for options is now open full config screen instead of changing position",
-    "3.1.2": "- added new option in armor hud config (durability bars)"
+    "3.1.2": "- added new option in armor hud config (durability bars)",
+    "3.1.3": " - fixed issue with loading config
+ - fixed some texts issues"
   },
   "1.16.2":{
     "3.1.0": "- new vertical mode for InventoryHUD
@@ -30,7 +32,9 @@
 - fixed issue #7 By just_some_user
 - changed default key binding for options, now 'O'
 - key binding for options is now open full config screen instead of changing position",
-    "3.1.2": "- added new option in armor hud config (durability bars)"
+    "3.1.2": "- added new option in armor hud config (durability bars)",
+    "3.1.3": " - fixed issue with loading config
+ - fixed some texts issues"
   },
    "1.16.3":{
     "3.1.0": "- new vertical mode for InventoryHUD
@@ -44,7 +48,9 @@
 - fixed issue #7 By just_some_user
 - changed default key binding for options, now 'O'
 - key binding for options is now open full config screen instead of changing position",
-     "3.1.2": "- added new option in armor hud config (durability bars)"
+     "3.1.2": "- added new option in armor hud config (durability bars)",
+    "3.1.3": " - fixed issue with loading config
+ - fixed some texts issues"
   },
   "1.15.2": {
     "1.3": "Some lang fixes",
@@ -75,7 +81,9 @@
 - fixed issue #7 By just_some_user
 - changed default key binding for options, now 'O'
 - key binding for options is now open full config screen instead of changing position",
-    "3.1.2": "- added new option in armor hud config (durability bars)"
+    "3.1.2": "- added new option in armor hud config (durability bars)",
+    "3.1.3": " - fixed issue with loading config
+ - fixed some texts issues"
   },
   "1.15.1": {
     "1.3": "Some lang fixes",
@@ -150,14 +158,14 @@
     - added new option in armor hud config (durability bars)"
   },
   "promos": {
-    "1.16.3-latest": "3.1.2",
-    "1.16.3-recommended": "3.1.2",
-    "1.16.2-latest": "3.1.2",
-    "1.16.2-recommended": "3.1.2",
-    "1.16.1-latest": "3.1.2",
-    "1.16.1-recommended": "3.1.2",
-    "1.15.2-latest": "3.1.2",
-    "1.15.2-recommended": "3.1.2",
+    "1.16.3-latest": "3.1.3",
+    "1.16.3-recommended": "3.1.3",
+    "1.16.2-latest": "3.1.3",
+    "1.16.2-recommended": "3.1.3",
+    "1.16.1-latest": "3.1.3",
+    "1.16.1-recommended": "3.1.3",
+    "1.15.2-latest": "3.1.3",
+    "1.15.2-recommended": "3.1.3",
     "1.15.1-latest": "3.0",
     "1.15.1-recommended": "3.0",
     "1.14.4-latest": "3.1.1",
