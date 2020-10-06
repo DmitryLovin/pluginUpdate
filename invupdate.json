@@ -155,7 +155,9 @@
  - key binding for options is now open full config screen instead of changing position",
     "3.1.4": "new colors for armorhud",
     "3.1.5": "- corail tombstones potion effects now has icons
-    - added new option in armor hud config (durability bars)"
+    - added new option in armor hud config (durability bars)",
+    "3.1.6": "- fixed issue #11 By  just_some_user
+- fixed issue #12 By  NoAim_Chomsky"
   },
   "promos": {
     "1.16.3-latest": "3.1.3",
@@ -170,7 +172,7 @@
     "1.15.1-recommended": "3.0",
     "1.14.4-latest": "3.1.1",
     "1.14.4-recommended": "3.1.1",
-    "1.12.2-latest": "3.1.5",
-    "1.12.2-recommended": "3.1.5"
+    "1.12.2-latest": "3.1.6",
+    "1.12.2-recommended": "3.1.6"
   }
 }
