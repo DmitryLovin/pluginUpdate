@@ -33,6 +33,7 @@
   "dark_prismarine":1.0,
   "netherrack": 0.188,
   "nether_bricks": 0.703,
+  "sea_lantern":1,
   
   "flint":0.156,
   "charcoal":0.75,
@@ -99,6 +100,7 @@
   "sugar":0.078,
   "glass_bottle":0.039,
   "poppy":0.039,
+  "glowstone_dust":0.125,
   
   "black_dye":0.188,
   "red_dye":0.188,
