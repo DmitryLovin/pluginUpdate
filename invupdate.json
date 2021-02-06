@@ -19,7 +19,8 @@
     "3.1.2": "- added new option in armor hud config (durability bars)",
     "3.1.3": " - fixed issue with loading config
  - fixed some texts issues",
-    "3.1.4": "fixed issue with potion level icon"
+    "3.1.4": "fixed issue with potion level icon",
+    "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "1.16.2":{
     "3.1.0": "- new vertical mode for InventoryHUD
@@ -44,7 +45,8 @@
  - new config screen
 Bug fixes:
  - fixed issue when quiver and inventory icons rendered wrong with left-handed players.
- - fixed issue when lang files didn't work."
+ - fixed issue when lang files didn't work.",
+    "3.2.1": "fixed issue #24 By  cartenavigom"
   },
    "1.16.3":{
     "3.1.0": "- new vertical mode for InventoryHUD
@@ -69,7 +71,8 @@ Bug fixes:
  - new config screen
 Bug fixes:
  - fixed issue when quiver and inventory icons rendered wrong with left-handed players.
- - fixed issue when lang files didn't work."
+ - fixed issue when lang files didn't work.",
+    "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "1.16.4":{
     "3.1.3": " - fixed issue with loading config
@@ -82,7 +85,8 @@ Bug fixes:
  - new config screen
 Bug fixes:
  - fixed issue when quiver and inventory icons rendered wrong with left-handed players.
- - fixed issue when lang files didn't work."
+ - fixed issue when lang files didn't work.",
+    "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "1.16.5":{
     "3.1.3": " - fixed issue with loading config
@@ -95,7 +99,8 @@ Bug fixes:
  - new config screen
 Bug fixes:
  - fixed issue when quiver and inventory icons rendered wrong with left-handed players.
- - fixed issue when lang files didn't work."
+ - fixed issue when lang files didn't work.",
+    "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "1.15.2": {
     "1.3": "Some lang fixes",
@@ -137,7 +142,8 @@ Bug fixes:
  - new config screen
 Bug fixes:
  - fixed issue when quiver and inventory icons rendered wrong with left-handed players.
- - fixed issue when lang files didn't work."
+ - fixed issue when lang files didn't work.",
+    "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "1.15.1": {
     "1.3": "Some lang fixes",
@@ -180,7 +186,8 @@ Bug fixes:
 - fixed issue #8 By just_some_user
 - fixed issue #7 By just_some_user
 - changed default key binding for options, now 'O'
-- key binding for options is now open full config screen instead of changing position"
+- key binding for options is now open full config screen instead of changing position",
+    "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "1.12.2":{
     "1.0": "First release on 1.12.2",
@@ -221,7 +228,8 @@ Bug fixes:
  - new config screen
 Bug fixes:
  - fixed issue when quiver and inventory icons rendered wrong with left-handed players.
- - fixed issue when lang files didn't work."
+ - fixed issue when lang files didn't work.",
+    "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "1.8.9":{
     "3.1.0":"RELEASE!",
@@ -233,28 +241,29 @@ Bug fixes:
  - new config screen
 Bug fixes:
  - fixed issue when quiver and inventory icons rendered wrong with left-handed players.
- - fixed issue when lang files didn't work."
+ - fixed issue when lang files didn't work.",
+    "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "promos": {
-    "1.16.5-latest": "3.2.0",
-    "1.16.5-recommended": "3.2.0",
-    "1.16.4-latest": "3.2.0",
-    "1.16.4-recommended": "3.2.0",
-    "1.16.3-latest": "3.2.0",
-    "1.16.3-recommended": "3.2.0",
-    "1.16.2-latest": "3.2.0",
-    "1.16.2-recommended": "3.2.0",
-    "1.16.1-latest": "3.1.4",
-    "1.16.1-recommended": "3.1.4",
-    "1.15.2-latest": "3.2.0",
-    "1.15.2-recommended": "3.2.0",
+    "1.16.5-latest": "3.2.1",
+    "1.16.5-recommended": "3.2.1",
+    "1.16.4-latest": "3.2.1",
+    "1.16.4-recommended": "3.2.1",
+    "1.16.3-latest": "3.2.1",
+    "1.16.3-recommended": "3.2.1",
+    "1.16.2-latest": "3.2.1",
+    "1.16.2-recommended": "3.2.1",
+    "1.16.1-latest": "3.2.1",
+    "1.16.1-recommended": "3.2.1",
+    "1.15.2-latest": "3.2.1",
+    "1.15.2-recommended": "3.2.1",
     "1.15.1-latest": "3.0",
     "1.15.1-recommended": "3.0",
-    "1.14.4-latest": "3.2.0",
-    "1.14.4-recommended": "3.2.0",
-    "1.12.2-latest": "3.2.0",
-    "1.12.2-recommended": "3.2.0",
-    "1.8.9-latest": "3.2.0",
-    "1.8.9-recommended": "3.2.0"
+    "1.14.4-latest": "3.2.1",
+    "1.14.4-recommended": "3.2.1",
+    "1.12.2-latest": "3.2.1",
+    "1.12.2-recommended": "3.2.1",
+    "1.8.9-latest": "3.2.1",
+    "1.8.9-recommended": "3.2.1"
   }
 }
