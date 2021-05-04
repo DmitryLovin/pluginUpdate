@@ -285,7 +285,8 @@ added new option for ArmorHUD - show overall item count for main/off hand
 ArmorHUD is now scalable
 added new horizontal mode for PotionHUD
 added keybind for toggle on/off Potion and Armor HUDs
-added one more mod for PotionHUD integration"
+added one more mod for PotionHUD integration",
+    "3.3.1": "fixed issue #33 By  TCreopargh"
   },
   "1.8.9":{
     "3.1.0":"RELEASE!",
@@ -317,8 +318,8 @@ Bug fixes:
     "1.15.1-recommended": "3.0",
     "1.14.4-latest": "3.3.0",
     "1.14.4-recommended": "3.3.0",
-    "1.12.2-latest": "3.3.0",
-    "1.12.2-recommended": "3.3.0",
+    "1.12.2-latest": "3.3.1",
+    "1.12.2-recommended": "3.3.1",
     "1.8.9-latest": "3.2.1",
     "1.8.9-recommended": "3.2.1"
   }
