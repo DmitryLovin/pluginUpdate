@@ -4,38 +4,62 @@
     "1.0.0": "RELEASE",
     "1.0.1": "Fixed issue (#3 By globensky and #5 By bstylia14) causes by illegal charater in path.
 Fixed issue #4 By FudjySludge
-Fixed other small issues"
+Fixed other small issues",
+    "1.1.0": "- slightly modified algorithm of creating icons
+- fixed issue when you can't save min distance for waypoints
+- added coordinates
+- added possibility to change size
+- added different ways to toggle gui
+- added update notification"
   },
   "1.16.3":{
     "1.0.0": "RELEASE",
     "1.0.1": "Fixed issue (#3 By globensky and #5 By bstylia14) causes by illegal charater in path.
 Fixed issue #4 By FudjySludge
-Fixed other small issues"
+Fixed other small issues",
+    "1.1.0": "- slightly modified algorithm of creating icons
+- fixed issue when you can't save min distance for waypoints
+- added coordinates
+- added possibility to change size
+- added different ways to toggle gui
+- added update notification"
   },
   "1.16.4":{
     "1.0.0": "RELEASE",
     "1.0.1": "Fixed issue (#3 By globensky and #5 By bstylia14) causes by illegal charater in path.
 Fixed issue #4 By FudjySludge
-Fixed other small issues"
+Fixed other small issues",
+    "1.1.0": "- slightly modified algorithm of creating icons
+- fixed issue when you can't save min distance for waypoints
+- added coordinates
+- added possibility to change size
+- added different ways to toggle gui
+- added update notification"
   },
   "1.16.5":{
     "1.0.0": "RELEASE",
     "1.0.1": "Fixed issue (#3 By globensky and #5 By bstylia14) causes by illegal charater in path.
 Fixed issue #4 By FudjySludge
-Fixed other small issues"
+Fixed other small issues",
+    "1.1.0": "- slightly modified algorithm of creating icons
+- fixed issue when you can't save min distance for waypoints
+- added coordinates
+- added possibility to change size
+- added different ways to toggle gui
+- added update notification"
   },
   "promos": {
-    "1.16.5-fabric": "1.0.1",
-    "1.16.5-latest": "1.0.1",
-    "1.16.5-recommended": "1.0.1",
-    "1.16.4-fabric": "1.0.1",
-    "1.16.4-latest": "1.0.1",
-    "1.16.4-recommended": "1.0.1",
-    "1.16.3-fabric": "1.0.1",
-    "1.16.3-latest": "1.0.1",
-    "1.16.3-recommended": "1.0.1",
-    "1.16.2-fabric": "1.0.1",
-    "1.16.2-latest": "1.0.1",
-    "1.16.2-recommended": "1.0.1"
+    "1.16.5-fabric": "1.1.0",
+    "1.16.5-latest": "1.1.0",
+    "1.16.5-recommended": "1.1.0",
+    "1.16.4-fabric": "1.1.0",
+    "1.16.4-latest": "1.1.0",
+    "1.16.4-recommended": "1.1.0",
+    "1.16.3-fabric": "1.1.0",
+    "1.16.3-latest": "1.1.0",
+    "1.16.3-recommended": "1.1.0",
+    "1.16.2-fabric": "1.1.0",
+    "1.16.2-latest": "1.1.0",
+    "1.16.2-recommended": "1.1.0"
   }
 }
