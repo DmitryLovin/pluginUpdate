@@ -1,5 +1,25 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/are-you-blind",
+  "1.17":{
+    "1.1.0": "fully reworked glowing algorithm
+    added config screen"
+  }
+  "1.16.2": {
+    "1.1.0": "fully reworked glowing algorithm
+    added config screen"
+  },
+  "1.16.3": {
+    "1.1.0": "fully reworked glowing algorithm
+    added config screen"
+  },
+  "1.16.4": {
+    "1.1.0": "fully reworked glowing algorithm
+    added config screen"
+  },
+  "1.16.5": {
+    "1.1.0": "fully reworked glowing algorithm
+    added config screen"
+  },
   "1.15.1": {
     "1.0.1": "kind of optiomization, and 1.15.1 support",
     "1.0.3": "Small bug fixes"
@@ -9,7 +29,20 @@
     "1.0.3": "Small bug fixes"
   },
   "promos": {
-    "1.15.1-latest": "1.0.3,
+    "1.16.2-latest": "1.1.0",
+    "1.16.2-recommended": "1.1.0",
+    "1.16.2-fabric": "1.1.0",
+    "1.16.3-latest": "1.1.0",
+    "1.16.3-recommended": "1.1.0",
+    "1.16.3-fabric": "1.1.0",
+    "1.16.4-latest": "1.1.0",
+    "1.16.4-recommended": "1.1.0",
+    "1.16.4-fabric": "1.1.0",
+    "1.16.5-latest": "1.1.0",
+    "1.16.6-recommended": "1.1.0",
+    "1.16.6-fabric": "1.1.0",
+    "1.17-fabric": "1.1.0",
+    "1.15.1-latest": "1.0.3",
     "1.15.1-recommended": "1.0.3",
     "1.15.2-latest": "1.0.3",
     "1.15.2-recommended": "1.0.3"
