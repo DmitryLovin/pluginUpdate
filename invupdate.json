@@ -2,7 +2,8 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
   "1.17.1":{
     "3.3.2": "nothing here",
-    "3.3.3": "forge"},
+    "3.3.3": "forge",
+    "3.3.4": "vanilla potion icons are now disabled when potion hud is enabled"},
   "1.17":{
   "3.3.1": "released for 1.17
     added update notification system",
@@ -311,8 +312,8 @@ Bug fixes:
     "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "promos": {
-    "1.17.1-latest": "3.3.3",
-    "1.17.1-recommended": "3.3.3",
+    "1.17.1-latest": "3.3.4",
+    "1.17.1-recommended": "3.3.4",
     "1.17.1-fabric": "3.3.2",
     "1.17-latest": "3.3.4",
     "1.17-recommended": "3.3.4",
