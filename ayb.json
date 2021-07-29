@@ -1,5 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/are-you-blind",
+  "1.17.1":{
+    "1.1.0": "fully reworked glowing algorithm
+changeable glowing color
+added config screen"
+  },
   "1.17":{
     "1.1.0": "fully reworked glowing algorithm
 changeable glowing color
@@ -34,6 +39,13 @@ added config screen"
     "1.0.3": "Small bug fixes"
   },
   "promos": {
+    
+    "1.17.1-latest": "1.1.0",
+    "1.17.1-recommended": "1.1.0",
+    "1.17.1-fabric": "1.1.0",
+    "1.17-latest": "1.1.0",
+    "1.17-recommended": "1.1.0",
+    "1.17-fabric": "1.1.0",
     "1.16.2-latest": "1.1.0",
     "1.16.2-recommended": "1.1.0",
     "1.16.2-fabric": "1.1.0",
