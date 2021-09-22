@@ -1,13 +1,23 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/castia-tier-highlighter",
+  "1.17":{
+  "2.4.0":"Added Auction Tools"
+  },
+  "1.17.1":{
+  "2.4.0":"Added Auction Tools"
+  },
   "1.16.2":{
-  "2.3.4":"added option to keep Castian Icon red"},
+  "2.3.4":"added option to keep Castian Icon red",
+  "2.4.0":"Added Auction Tools"},
   "1.16.3":{
-  "2.3.4":"added option to keep Castian Icon red"},
+  "2.3.4":"added option to keep Castian Icon red",
+  "2.4.0":"Added Auction Tools"},
   "1.16.4":{
-  "2.3.4":"added option to keep Castian Icon red"},
+  "2.3.4":"added option to keep Castian Icon red",
+  "2.4.0":"Added Auction Tools"},
   "1.16.5":{
-  "2.3.4":"added option to keep Castian Icon red"},
+  "2.3.4":"added option to keep Castian Icon red",
+  "2.4.0":"Added Auction Tools"},
   "1.15.1": {
     "1.1": "kind of optiomization, and 1.15.1 support",
     "2.0": "added Inventory tools",
@@ -23,14 +33,18 @@
     "2.1.3": "fixed bug when you can't run minecraft without InventoryHUD+ forge mod."
   },
   "promos": {
-    "1.16.2-latest":"2.3.4",
-    "1.16.2-recommended":"2.3.4",
-    "1.16.3-latest":"2.3.4",
-    "1.16.3-recommended":"2.3.4",
-    "1.16.4-latest":"2.3.4",
-    "1.16.4-recommended":"2.3.4",
-    "1.16.5-latest":"2.3.4",
-    "1.16.5-recommended":"2.3.4",
+    "1.17-latest":"2.4.0",
+    "1.17.1-latest":"2.4.0",
+    "1.17-recommended":"2.4.0",
+    "1.17.1-recommended":"2.4.0",
+    "1.16.2-latest":"2.4.0",
+    "1.16.2-recommended":"2.4.0",
+    "1.16.3-latest":"2.4.0",
+    "1.16.3-recommended":"2.4.0",
+    "1.16.4-latest":"2.4.0",
+    "1.16.4-recommended":"2.4.0",
+    "1.16.5-latest":"2.4.0",
+    "1.16.5-recommended":"2.4.0",
     "1.15.1-latest": "2.1.2",
     "1.15.1-recommended": "2.1.2",
     "1.15.2-latest": "2.1.3",
