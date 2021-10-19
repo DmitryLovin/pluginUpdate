@@ -11,7 +11,8 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
     "1.2.2" : "Fixed issue when config file doesn't save for non-vanilla mobs",
     "1.2.3" : "waypoint from other mods now are showing on compass
     added angle threshold setting for waypoints",
-    "1.2.5" : "added hide behind setting"
+    "1.2.5" : "added hide behind setting",
+    "1.2.6" : "fixed issue with loading resource packs"
   },
   "1.17":{
     "1.1.1": "1.17 release",
@@ -24,7 +25,8 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
     "1.2.2" : "Fixed issue when config file doesn't save for non-vanilla mobs",
     "1.2.3" : "waypoint from other mods now are showing on compass
     added angle threshold setting for waypoints",
-    "1.2.5" : "added hide behind setting"
+    "1.2.5" : "added hide behind setting",
+    "1.2.6" : "fixed issue with loading resource packs"
   },
   "1.16.2":{
     "1.0.0": "RELEASE",
@@ -46,7 +48,8 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
     "1.2.2" : "Fixed issue when config file doesn't save for non-vanilla mobs",
     "1.2.3" : "waypoint from other mods now are showing on compass
     added angle threshold setting for waypoints",
-    "1.2.5" : "added hide behind setting"
+    "1.2.5" : "added hide behind setting",
+    "1.2.6" : "fixed mixin usage (fabric only)"
   },
   "1.16.3":{
     "1.0.0": "RELEASE",
@@ -68,7 +71,8 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
     "1.2.2" : "Fixed issue when config file doesn't save for non-vanilla mobs",
     "1.2.3" : "waypoint from other mods now are showing on compass
     added angle threshold setting for waypoints",
-    "1.2.5" : "added hide behind setting"
+    "1.2.5" : "added hide behind setting",
+    "1.2.6" : "fixed mixin usage (fabric only)"
   },
   "1.16.4":{
     "1.0.0": "RELEASE",
@@ -90,7 +94,8 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
     "1.2.2" : "Fixed issue when config file doesn't save for non-vanilla mobs",
     "1.2.3" : "waypoint from other mods now are showing on compass
     added angle threshold setting for waypoints",
-    "1.2.5" : "added hide behind setting"
+    "1.2.5" : "added hide behind setting",
+    "1.2.6" : "fixed mixin usage (fabric only)"
   },
   "1.16.5":{
     "1.0.0": "RELEASE",
@@ -112,25 +117,26 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
     "1.2.2" : "Fixed issue when config file doesn't save for non-vanilla mobs",
     "1.2.3" : "waypoint from other mods now are showing on compass
     added angle threshold setting for waypoints",
-    "1.2.5" : "added hide behind setting"
+    "1.2.5" : "added hide behind setting",
+    "1.2.6" : "fixed mixin usage (fabric only)"
   },
   "promos": {
     "1.17.1-latest": "1.2.5",
     "1.17.1-recommended": "1.2.5",
-    "1.17.1-fabric": "1.2.5",
+    "1.17.1-fabric": "1.2.6",
     "1.17-latest": "1.2.5",
     "1.17-recommended": "1.2.5",
-    "1.17-fabric": "1.2.5",
-    "1.16.5-fabric": "1.2.5",
+    "1.17-fabric": "1.2.6",
+    "1.16.5-fabric": "1.2.6",
     "1.16.5-latest": "1.2.5",
     "1.16.5-recommended": "1.2.5",
-    "1.16.4-fabric": "1.2.5",
+    "1.16.4-fabric": "1.2.6",
     "1.16.4-latest": "1.2.5",
     "1.16.4-recommended": "1.2.5",
-    "1.16.3-fabric": "1.2.5",
+    "1.16.3-fabric": "1.2.6",
     "1.16.3-latest": "1.2.5",
     "1.16.3-recommended": "1.2.5",
-    "1.16.2-fabric": "1.2.5",
+    "1.16.2-fabric": "1.2.6",
     "1.16.2-latest": "1.2.5",
     "1.16.2-recommended": "1.2.5"
   }
