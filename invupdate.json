@@ -4,10 +4,10 @@
     "3.3.2": "nothing here",
     "3.3.3": "forge",
     "3.3.4": "vanilla potion icons are now disabled when potion hud is enabled",
-    "3.4.0": "added trinkets support,
-  added chinese language,
-  added spanish language,
-  added notification system for future updates",
+    "3.4.0": "- added trinkets support
+  - added chinese language
+  - added spanish language
+  - added notification system for future updates",
     "3.4.1": "added bar duration setting"
   },
   "1.17":{
