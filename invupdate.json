@@ -3,7 +3,8 @@
   "1.18":{
     "3.4.1": "1.18 release",
     "3.4.2": "curios fixes (forge only)
-    fixed issue #58 By Baenjamin (fabric only)"
+    fixed issue #58 By Baenjamin (fabric only)",
+    "3.4.3": "fixed issue (#60 By  codingandtea) with curios implementation"
   }
   "1.17.1":{
     "3.3.2": "nothing here",
@@ -363,8 +364,8 @@ Bug fixes:
     "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "promos": {
-    "1.18-latest": "3.4.2",
-    "1.18-recommended": "3.4.2",
+    "1.18-latest": "3.4.3",
+    "1.18-recommended": "3.4.3",
     "1.18-fabric": "3.4.2",
     "1.17.1-latest": "3.4.1",
     "1.17.1-recommended": "3.4.1",
