@@ -1,10 +1,17 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/advanced-compass",
+  "1.19":{
+    "1.2.7": "1.19 release"
+  },
   "1.18.1":{
-    "1.2.6": "1.18 release"
+    "1.2.6": "1.18 release",
+    "1.2.7": "(fabric)Fixed issue with NullPointerException coused by some other mod with weird code injections,
+    (forge) Fixed issue when "Show players" settings were not loading right."
   },
   "1.18":{
-    "1.2.6": "1.18 release"
+    "1.2.6": "1.18 release",
+    "1.2.7": "(fabric)Fixed issue with NullPointerException coused by some other mod with weird code injections,
+    (forge) Fixed issue when "Show players" settings were not loading right."
   },
   "1.17.1":{
     "1.1.1": "1.17 release",
@@ -127,12 +134,14 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
     "1.2.6" : "fixed mixin usage (fabric only)"
   },
   "promos": {
-    "1.18.1-latest": "1.2.6",
-    "1.18.1-recommended": "1.2.6",
-    "1.18.1-fabric": "1.2.6",
-    "1.18-latest": "1.2.6",
-    "1.18-recommended": "1.2.6",
-    "1.18-fabric": "1.2.6",
+    "1.19-latest": "1.2.7",
+    "1.19-recommended": "1.2.7",
+    "1.18.1-latest": "1.2.7",
+    "1.18.1-recommended": "1.2.7",
+    "1.18.1-fabric": "1.2.7",
+    "1.18-latest": "1.2.7",
+    "1.18-recommended": "1.2.7",
+    "1.18-fabric": "1.2.7",
     "1.17.1-latest": "1.2.5",
     "1.17.1-recommended": "1.2.5",
     "1.17.1-fabric": "1.2.6",
