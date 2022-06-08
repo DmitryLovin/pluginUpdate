@@ -1,5 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/are-you-blind",
+  "1.19":{
+    "1.1.0": "1.19 release"
+  },
   "1.18.1":{
     "1.1.0": "1.18 release"
   },
@@ -45,6 +48,8 @@ added config screen"
     "1.0.3": "Small bug fixes"
   },
   "promos": {
+    "1.19-latest": "1.1.0",
+    "1.19-recommended": "1.1.0",
     "1.18.1-latest": "1.1.0",
     "1.18.1-recommended": "1.1.0",
     "1.18.1-fabric": "1.1.0",
