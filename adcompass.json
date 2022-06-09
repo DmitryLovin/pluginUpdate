@@ -136,6 +136,7 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
   "promos": {
     "1.19-latest": "1.2.7",
     "1.19-recommended": "1.2.7",
+    "1.19-fabric": "1.2.7",
     "1.18.1-latest": "1.2.7",
     "1.18.1-recommended": "1.2.7",
     "1.18.1-fabric": "1.2.7",
