@@ -3,14 +3,16 @@
   "1.19":{
     "1.2.7": "1.19 release",
     "1.2.8": "forge: xaero's minimap support",
-    "1.2.9": "small logic changes"
+    "1.2.9": "small logic changes",
+    "1.2.10": "separate client init to avoid server crash"
   },
   "1.18.1":{
     "1.2.6": "1.18 release",
     "1.2.7": "(fabric)Fixed issue with NullPointerException coused by some other mod with weird code injections,
 (forge) Fixed issue when "Show players" settings were not loading right.",
     "1.2.9": "FTB waypoints support,
-fixed issue #30 By seanchengn"
+fixed issue #30 By seanchengn",
+    "1.2.10": "separate client init to avoid server crash"
   },
   "1.18":{
     "1.2.6": "1.18 release",
@@ -138,11 +140,11 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
     "1.2.6" : "fixed mixin usage (fabric only)"
   },
   "promos": {
-    "1.19-latest": "1.2.9",
-    "1.19-recommended": "1.2.9",
+    "1.19-latest": "1.2.10",
+    "1.19-recommended": "1.2.10",
     "1.19-fabric": "1.2.7",
-    "1.18.1-latest": "1.2.9",
-    "1.18.1-recommended": "1.2.9",
+    "1.18.1-latest": "1.2.10",
+    "1.18.1-recommended": "1.2.10",
     "1.18.1-fabric": "1.2.7",
     "1.18-latest": "1.2.7",
     "1.18-recommended": "1.2.7",
