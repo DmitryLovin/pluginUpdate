@@ -3,7 +3,8 @@
   "1.19":{
     "3.4.2": "fabric 1.19",
     "3.4.4": "1.19",
-    "3.4.5": "curios support"
+    "3.4.5": "curios support",
+    "3.4.6": "new forge registris"
     },
   "1.18.1":{
     "3.4.2":"1.18.1",
@@ -377,8 +378,8 @@ Bug fixes:
     "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "promos": {
-    "1.19-latest": "3.4.5",
-    "1.19-recommended": "3.4.5",
+    "1.19-latest": "3.4.6",
+    "1.19-recommended": "3.4.6",
     "1.19-fabric": "3.4.2",
     "1.18.1-latest": "3.4.4",
     "1.18.1-recommended": "3.4.4",
