@@ -7,7 +7,9 @@
     "1.2.10": "separate client init to avoid server crash",
     "1.2.11": "openGL fixes,
     sub-cardinals,
-    (forge) ftb chunks support"
+    (forge) ftb chunks support",
+    "1.2.12": "(fabric) journey map",
+    "1.2.13": "(forge) new forge registries"
   },
   "1.18.2":{
     "1.2.6": "1.18 release",
@@ -17,7 +19,8 @@
 fixed issue #30 By seanchengn",
     "1.2.10": "separate client init to avoid server crash",
     "1.2.11": "openGL fixes,
-    sub-cardinals"
+    sub-cardinals",
+    "1.2.12": "(fabric) journey map"
   },
   "1.18.1":{
     "1.2.6": "1.18 release",
@@ -158,12 +161,12 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
     (forge) ftb chunks support"
   },
   "promos": {
-    "1.19-latest": "1.2.11",
-    "1.19-recommended": "1.2.11",
-    "1.19-fabric": "1.2.1",
+    "1.19-latest": "1.2.13",
+    "1.19-recommended": "1.2.13",
+    "1.19-fabric": "1.2.12",
     "1.18.2-latest": "1.2.11",
     "1.18.2-recommended": "1.2.11",
-    "1.18.2-fabric": "1.2.11",
+    "1.18.2-fabric": "1.2.12",
     "1.18.1-latest": "1.2.11",
     "1.18.1-recommended": "1.2.11",
     "1.18.1-fabric": "1.2.11",
