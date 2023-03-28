@@ -5,7 +5,8 @@
   new 'show hidden effects' setting, you can hide icons for hidden effect, like in vanilla version
   new effects blacklist system, potion hud will ignore effects from this list",
     "3.4.9": "critical error hot fix",
-    "3.4.10": "curios/trinkets fixes"
+    "3.4.10": "curios/trinkets fixes",
+    "3.4'11": "Numeric text field fix"
     },
   "1.19.3":{
     "3.4.6": "new forge registris",
@@ -406,9 +407,9 @@ Bug fixes:
     "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "promos": {
-    "1.19.4-latest": "3.4.10",
-    "1.19.4-recommended": "3.4.10",
-    "1.19.4-fabric": "3.4.10",
+    "1.19.4-latest": "3.4.11",
+    "1.19.4-recommended": "3.4.11",
+    "1.19.4-fabric": "3.4.11",
     "1.19.3-latest": "3.4.7",
     "1.19.3-recommended": "3.4.7",
     "1.19.3-fabric": "3.4.7",
