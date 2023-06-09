@@ -1,5 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
+  "1.20":{
+    "3.4.13": "1.20 release"
+  },
   "1.19.4":{
     "3.4.8": "new 'keep notify' setting, you can toggle it off to be notified only once per version.
   new 'show hidden effects' setting, you can hide icons for hidden effect, like in vanilla version
@@ -409,6 +412,9 @@ Bug fixes:
     "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "promos": {
+    "1.20-latest": "3.4.13",
+    "1.20-recommended": "3.4.13",
+    "1.20-fabric": "3.4.13",
     "1.19.4-latest": "3.4.12",
     "1.19.4-recommended": "3.4.12",
     "1.19.4-fabric": "3.4.12",
