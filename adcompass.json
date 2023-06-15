@@ -1,5 +1,19 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/advanced-compass",
+  "1.20":{
+    "1.2.15": "1.20 release"
+  },
+  "1.20":{
+    "1.2.15": "1.20 release"
+  },
+  "1.19.4":{
+    "1.2.14": "rendering with debug mode setting
+               rendering with player list setting
+               show entities setting
+               show waypoints setting
+               new keybind"
+
+  },
   "1.19.3":{
     "1.2.14": "rendering with debug mode setting
                rendering with player list setting
@@ -177,6 +191,15 @@ in entity list you can now regenerate icons for modded mobs (only if you entered
     (forge) ftb chunks support"
   },
   "promos": {
+    "1.20.1-recommended": "1.2.15",
+    "1.20.1-latest": "1.2.15",
+    "1.20.1-fabric": "1.2.15",
+    "1.20-recommended": "1.2.15",
+    "1.20-latest": "1.2.15",
+    "1.20-fabric": "1.2.15",
+    "1.19.4-recommended": "1.2.14",
+    "1.19.4-latest": "1.2.14",
+    "1.19.4-fabric": "1.2.14",
     "1.19.3-recommended": "1.2.14",
     "1.19.3-latest": "1.2.14",
     "1.19.3-fabric": "1.2.14",
