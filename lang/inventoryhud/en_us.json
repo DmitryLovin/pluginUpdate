@@ -88,5 +88,8 @@
   "inventoryhud.config.gui.withdebug": "With debug:",
   "inventoryhud.config.gui.invdebug.tt": "Show Inventory HUD when debug gui is ON",
   "inventoryhud.config.gui.potdebug.tt": "Show Potion HUD when debug gui is ON",
-  "inventoryhud.config.gui.armdebug.tt": "Show Armor HUD when debug gui is ON"
+  "inventoryhud.config.gui.armdebug.tt": "Show Armor HUD when debug gui is ON",
+
+  "inventoryhud.config.gui.arrowswithoutweapon": "Arrows without weapon:",
+  "inventoryhud.config.gui.arrowswithoutweapon.tt": "Show arrows count even when no weapon in your hands"
 }
