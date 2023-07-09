@@ -83,5 +83,10 @@
   "inventoryhud.config.gui.blacklistbtn": "Edit",
   "inventoryhud.config.gui.bl.add": "Add Effect",
   "inventoryhud.config.gui.bl.delete": "Delete",
-  "inventoryhud.config.gui.bl.save": "Save"
+  "inventoryhud.config.gui.bl.save": "Save",
+
+  "inventoryhud.config.gui.withdebug": "With debug:",
+  "inventoryhud.config.gui.invdebug.tt": "Show Inventory HUD when debug gui is ON",
+  "inventoryhud.config.gui.potdebug.tt": "Show Potion HUD when debug gui is ON",
+  "inventoryhud.config.gui.armdebug.tt": "Show Armor HUD when debug gui is ON"
 }
