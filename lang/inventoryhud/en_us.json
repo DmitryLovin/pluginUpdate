@@ -91,5 +91,9 @@
   "inventoryhud.config.gui.armdebug.tt": "Show Armor HUD when debug gui is ON",
 
   "inventoryhud.config.gui.arrowswithoutweapon": "Arrows without weapon:",
-  "inventoryhud.config.gui.arrowswithoutweapon.tt": "Show arrows count even when no weapon in your hands"
+  "inventoryhud.config.gui.arrowswithoutweapon.tt": "Show arrows count even when no weapon in your hands",
+
+  "inventoryhud.config.gui.potionlevels": "Levels:",
+  "inventoryhud.config.gui.potionlevels.tt.1": "If 'true' Potion HUD will show all levels,",
+  "inventoryhud.config.gui.potionlevels.tt.2": "instead of infinity symbol for effects with level higher than nine"
 }
