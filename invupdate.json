@@ -2,35 +2,19 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
   "1.20.1": {
     "3.4.13": "1.20 release",
-    "3.4.14": [
-      "new option to hide HUDs with debug gui opened",
-      "new option to hide arrows count when now weapon in your hands",
-      "new option to show effect levels higher than 9"
-    ]
+    "3.4.14": "new option to hide HUDs with debug gui opened\\nnew option to hide arrows count when now weapon in your hands\\nnew option to show effect levels higher than 9"
   },
   "1.20": {
     "3.4.13": "1.20 release",
-    "3.4.14": [
-      "new option to hide HUDs with debug gui opened",
-      "new option to hide arrows count when now weapon in your hands",
-      "new option to show effect levels higher than 9"
-    ]
+    "3.4.14": "new option to hide HUDs with debug gui opened\\nnew option to hide arrows count when now weapon in your hands\\nnew option to show effect levels higher than 9"
   },
   "1.19.4": {
-    "3.4.8": [
-      "new 'keep notify' setting, you can toggle it off to be notified only once per version",
-      "new 'show hidden effects' setting, you can hide icons for hidden effect, like in vanilla version",
-      "new effects blacklist system, potion hud will ignore effects from this list"
-    ],
+    "3.4.8": "new 'keep notify' setting, you can toggle it off to be notified only once per version\\nnew 'show hidden effects' setting, you can hide icons for hidden effect, like in vanilla version\\nnew effects blacklist system, potion hud will ignore effects from this list",
     "3.4.9": "critical error hot fix",
     "3.4.10": "curios/trinkets fixes",
     "3.4.11": "Numeric text field fix",
     "3.4.12": "some fixes and new ammo calculation",
-    "3.4.14": [
-      "new option to hide HUDs with debug gui opened",
-      "new option to hide arrows count when now weapon in your hands",
-      "new option to show effect levels higher than 9"
-    ]
+    "3.4.14": "new option to hide HUDs with debug gui opened\\nnew option to hide arrows count when now weapon in your hands\\nnew option to show effect levels higher than 9"
   },
   "1.19.3": {
     "3.4.6": "new forge registris",
@@ -53,19 +37,11 @@
     "3.4.2": "1.18.1",
     "3.4.3": "1.18.1",
     "3.4.4": "(forge) fixed server init",
-    "3.4.8": [
-      "new 'keep notify' setting, you can toggle it off to be notified only once per version",
-      "new 'show hidden effects' setting, you can hide icons for hidden effect, like in vanilla version",
-      "new effects blacklist system, potion hud will ignore effects from this list"
-    ],
+    "3.4.8": "new 'keep notify' setting, you can toggle it off to be notified only once per version\\nnew 'show hidden effects' setting, you can hide icons for hidden effect, like in vanilla version\\nnew effects blacklist system, potion hud will ignore effects from this list",
     "3.4.9": "critical error hot fix",
     "3.4.10": "curios/trinkets fixes",
     "3.4.12": "some fixes and new ammo calculation",
-    "3.4.14": [
-      "new option to hide HUDs with debug gui opened",
-      "new option to hide arrows count when now weapon in your hands",
-      "new option to show effect levels higher than 9"
-    ]
+    "3.4.14": "new option to hide HUDs with debug gui opened\\nnew option to hide arrows count when now weapon in your hands\\nnew option to show effect levels higher than 9"
   },
   "1.18.1": {
     "3.4.2": "1.18.1",
@@ -74,10 +50,7 @@
   },
   "1.18": {
     "3.4.1": "1.18 release",
-    "3.4.2": [
-      "curios fixes (forge only)",
-      "fixed issue #58 By Baenjamin (fabric only)"
-    ],
+    "3.4.2": "curios fixes (forge only)\\nfixed issue #58 By Baenjamin (fabric only)",
     "3.4.3": "fixed issue (#60 By  codingandtea) with curios implementation",
     "3.4.4": "(forge) fixed server init"
   },
@@ -85,460 +58,157 @@
     "3.3.2": "nothing here",
     "3.3.3": "forge",
     "3.3.4": "vanilla potion icons are now disabled when potion hud is enabled",
-    "3.4.0": [
-      "added trinkets support",
-      "added chinese language",
-      "added spanish language",
-      "added notification system for future updates"
-    ],
+    "3.4.0": "added trinkets support\\nadded chinese language\\nadded spanish language\\nadded notification system for future updates",
     "3.4.1": "added bar duration setting"
   },
   "1.17": {
-    "3.3.1": [
-      "released for 1.17",
-      "added update notification system"
-    ],
+    "3.3.1": "released for 1.17\\nadded update notification system",
     "3.3.2": "fixed issue #38 By  gamingoninsulin",
     "3.3.3": "forge release",
     "3.3.4": "vanilla potion icons are now disabled when potion hud is enabled",
-    "3.4.0": [
-      "added trinkets support",
-      "added chinese language",
-      "added spanish language",
-      "added notification system for future updates"
-    ],
+    "3.4.0": "added trinkets support\\nadded chinese language\\nadded spanish language\\nadded notification system for future updates",
     "3.4.1": "added bar duration setting"
   },
   "1.16.1": {
-    "3.0": [
-      "new mini mode for Potion HUD",
-      "Armor HUD now shows count of arrows in full plus inv mode",
-      "new Ingame config menu, where you can change position of the HUDs and toggle them on/off"
-    ],
+    "3.0": "new mini mode for Potion HUD\\nArmor HUD now shows count of arrows in full plus inv mode\\nnew Ingame config menu, where you can change position of the HUDs and toggle them on/off",
     "3.0.1": " small compatibility fixes.",
-    "3.1.0": [
-      "new vertical mode for InventoryHUD",
-      "new mini mode for InventoryHUD",
-      "PotionHUD now has gap option",
-      "fixed bug when potions was rendering above debug screen",
-      "potion rendering system was reworked, now all potions from any mod should render"
-    ],
-    "3.1.1": [
-      "now one version for 1.16.1, 1.16.2 and 1.16.3",
-      "new colors for armor hud",
-      "fixed issue #8 By just_some_user",
-      "fixed issue #7 By just_some_user",
-      "changed default key binding for options, now 'O'",
-      "key binding for options is now open full config screen instead of changing position"
-    ],
+    "3.1.0": "new vertical mode for InventoryHUD\\nnew mini mode for InventoryHUD\\nPotionHUD now has gap option\\nfixed bug when potions was rendering above debug screen\\npotion rendering system was reworked, now all potions from any mod should render",
+    "3.1.1": "now one version for 1.16.1, 1.16.2 and 1.16.3\\nnew colors for armor hud\\nfixed issue #8 By just_some_user\\nfixed issue #7 By just_some_user\\nchanged default key binding for options, now 'O'\\nkey binding for options is now open full config screen instead of changing position",
     "3.1.2": "added new option in armor hud config (durability bars)",
-    "3.1.3": [
-      "fixed issue with loading config",
-      "fixed some texts issues"
-    ],
+    "3.1.3": "fixed issue with loading config\\nfixed some texts issues",
     "3.1.4": "fixed issue with potion level icon",
     "3.2.1": "fixed issue #24 By  cartenavigom",
     "3.2.2": "fixed issue #27 By Gberqz"
   },
   "1.16.2": {
-    "3.1.0": [
-      "new vertical mode for InventoryHUD",
-      "new mini mode for InventoryHUD",
-      "PotionHUD now has gap option",
-      "fixed bug when potions was rendering above debug screen",
-      "potion rendering system was reworked, now all potions from any mod should render"
-    ],
-    "3.1.1": [
-      "now one version for 1.16.1, 1.16.2 and 1.16.3",
-      "new colors for armor hud",
-      "fixed issue #8 By just_some_user",
-      "fixed issue #7 By just_some_user",
-      "changed default key binding for options, now 'O'",
-      "key binding for options is now open full config screen instead of changing position"
-    ],
+    "3.1.0": "new vertical mode for InventoryHUD\\nnew mini mode for InventoryHUD\\nPotionHUD now has gap option\\nfixed bug when potions was rendering above debug screen\\npotion rendering system was reworked, now all potions from any mod should render",
+    "3.1.1": "now one version for 1.16.1, 1.16.2 and 1.16.3\\nnew colors for armor hud\\nfixed issue #8 By just_some_user\\nfixed issue #7 By just_some_user\\nchanged default key binding for options, now 'O'\\nkey binding for options is now open full config screen instead of changing position",
     "3.1.2": "added new option in armor hud config (durability bars)",
-    "3.1.3": [
-      "fixed issue with loading config",
-      "fixed some texts issues"
-    ],
+    "3.1.3": "fixed issue with loading config\\nfixed some texts issues",
     "3.1.4": "fixed issue with potion level icon",
-    "3.2.0": [
-      "new Inventory HUD background (with configurable alpha)",
-      "Disebleable ArmorHUD numbers",
-      "every item in ArmorHUD now moveble",
-      "new config screen",
-      "fixed issue when quiver and inventory icons rendered wrong with left-handed players.",
-      "fixed issue when lang files didn't work."
-    ],
+    "3.2.0": "new Inventory HUD background (with configurable alpha)\\nDisebleable ArmorHUD numbers\\nevery item in ArmorHUD now moveble\\nnew config screen\\nfixed issue when quiver and inventory icons rendered wrong with left-handed players.\\nfixed issue when lang files didn't work.",
     "3.2.1": "fixed issue #24 By  cartenavigom",
     "3.2.2": "fixed issue #27 By Gberqz",
-    "3.3.0": [
-      "added animation for recently picked up items",
-      "added possibility to hide InventoryHUD background if inventory is empty",
-      "changed size of InventoryHUD background",
-      "added new option for ArmorHUD show overall item count for main/off hand",
-      "ArmorHUD is now scalable",
-      "added new horizontal mode for PotionHUD",
-      "added keybind for toggle on/off Potion and Armor HUDs"
-    ],
-    "3.4.0": [
-      "added trinkets support",
-      "added chinese language",
-      "added spanish language",
-      "added notification system for future updates"
-    ],
+    "3.3.0": "added animation for recently picked up items\\nadded possibility to hide InventoryHUD background if inventory is empty\\nchanged size of InventoryHUD background\\nadded new option for ArmorHUD show overall item count for main/off hand\\nArmorHUD is now scalable\\nadded new horizontal mode for PotionHUD\\nadded keybind for toggle on/off Potion and Armor HUDs",
+    "3.4.0": "added trinkets support\\nadded chinese language\\nadded spanish language\\nadded notification system for future updates",
     "3.4.1": "added bar duration setting"
   },
   "1.16.3": {
-    "3.1.0": [
-      "new vertical mode for InventoryHUD",
-      "new mini mode for InventoryHUD",
-      "PotionHUD now has gap option",
-      "fixed bug when potions was rendering above debug screen",
-      "potion rendering system was reworked, now all potions from any mod should render"
-    ],
-    "3.1.1": [
-      "now one version for 1.16.1, 1.16.2 and 1.16.3",
-      "new colors for armor hud",
-      "fixed issue #8 By just_some_user",
-      "fixed issue #7 By just_some_user",
-      "changed default key binding for options, now 'O'",
-      "key binding for options is now open full config screen instead of changing position"
-    ],
+    "3.1.0": "new vertical mode for InventoryHUD\\nnew mini mode for InventoryHUD\\nPotionHUD now has gap option\\nfixed bug when potions was rendering above debug screen\\npotion rendering system was reworked, now all potions from any mod should render",
+    "3.1.1": "now one version for 1.16.1, 1.16.2 and 1.16.3\\nnew colors for armor hud\\nfixed issue #8 By just_some_user\\nfixed issue #7 By just_some_user\\nchanged default key binding for options, now 'O'\\nkey binding for options is now open full config screen instead of changing position",
     "3.1.2": "added new option in armor hud config (durability bars)",
-    "3.1.3": [
-      "fixed issue with loading config",
-      "fixed some texts issues"
-    ],
+    "3.1.3": "fixed issue with loading config\\nfixed some texts issues",
     "3.1.4": "fixed issue with potion level icon",
-    "3.2.0": [
-      "new Inventory HUD background (with configurable alpha)",
-      "Disebleable ArmorHUD numbers",
-      "every item in ArmorHUD now moveble",
-      "new config screen",
-      "fixed issue when quiver and inventory icons rendered wrong with left-handed players.",
-      "fixed issue when lang files didn't work."
-    ],
+    "3.2.0": "new Inventory HUD background (with configurable alpha)\\nDisebleable ArmorHUD numbers\\nevery item in ArmorHUD now moveble\\nnew config screen\\nfixed issue when quiver and inventory icons rendered wrong with left-handed players.\\nfixed issue when lang files didn't work.",
     "3.2.1": "fixed issue #24 By  cartenavigom",
     "3.2.2": "fixed issue #27 By Gberqz",
-    "3.3.0": [
-      "added animation for recently picked up items",
-      "added possibility to hide InventoryHUD background if inventory is empty",
-      "changed size of InventoryHUD background",
-      "added new option for ArmorHUD show overall item count for main/off hand",
-      "ArmorHUD is now scalable",
-      "added new horizontal mode for PotionHUD",
-      "added keybind for toggle on/off Potion and Armor HUDs"
-    ],
-    "3.4.0": [
-      "added trinkets support",
-      "added chinese language",
-      "added spanish language",
-      "added notification system for future updates"
-    ],
+    "3.3.0": "added animation for recently picked up items\\nadded possibility to hide InventoryHUD background if inventory is empty\\nchanged size of InventoryHUD background\\nadded new option for ArmorHUD show overall item count for main/off hand\\nArmorHUD is now scalable\\nadded new horizontal mode for PotionHUD\\nadded keybind for toggle on/off Potion and Armor HUDs",
+    "3.4.0": "added trinkets support\\nadded chinese language\\nadded spanish language\\nadded notification system for future updates",
     "3.4.1": "added bar duration setting"
   },
   "1.16.4": {
-    "3.1.3": [
-      "fixed issue with loading config",
-      "fixed some texts issues"
-    ],
+    "3.1.3": "fixed issue with loading config\\nfixed some texts issues",
     "3.1.4": "fixed issue with potion level icon",
-    "3.2.0": [
-      "new Inventory HUD background (with configurable alpha)",
-      "Disebleable ArmorHUD numbers",
-      "every item in ArmorHUD now moveble",
-      "new config screen",
-      "fixed issue when quiver and inventory icons rendered wrong with left-handed players.",
-      "fixed issue when lang files didn't work."
-    ],
+    "3.2.0": "new Inventory HUD background (with configurable alpha)\\nDisebleable ArmorHUD numbers\\nevery item in ArmorHUD now moveble\\nnew config screen\\nfixed issue when quiver and inventory icons rendered wrong with left-handed players.\\nfixed issue when lang files didn't work.",
     "3.2.1": "fixed issue #24 By  cartenavigom",
     "3.2.2": "fixed issue #27 By Gberqz",
-    "3.3.0": [
-      "added animation for recently picked up items",
-      "added possibility to hide InventoryHUD background if inventory is empty",
-      "changed size of InventoryHUD background",
-      "added new option for ArmorHUD show overall item count for main/off hand",
-      "ArmorHUD is now scalable",
-      "added new horizontal mode for PotionHUD",
-      "added keybind for toggle on/off Potion and Armor HUDs"
-    ],
-    "3.4.0": [
-      "added trinkets support",
-      "added chinese language",
-      "added spanish language",
-      "added notification system for future updates"
-    ],
+    "3.3.0": "added animation for recently picked up items\\nadded possibility to hide InventoryHUD background if inventory is empty\\nchanged size of InventoryHUD background\\nadded new option for ArmorHUD show overall item count for main/off hand\\nArmorHUD is now scalable\\nadded new horizontal mode for PotionHUD\\nadded keybind for toggle on/off Potion and Armor HUDs",
+    "3.4.0": "added trinkets support\\nadded chinese language\\nadded spanish language\\nadded notification system for future updates",
     "3.4.1": "added bar duration setting"
   },
   "1.16.5": {
-    "3.1.3": [
-      "fixed issue with loading config",
-      "fixed some texts issues"
-    ],
+    "3.1.3": "fixed issue with loading config\\nfixed some texts issues",
     "3.1.4": "fixed issue with potion level icon",
-    "3.2.0": [
-      "new Inventory HUD background (with configurable alpha)",
-      "Disebleable ArmorHUD numbers",
-      "every item in ArmorHUD now moveble",
-      "new config screen",
-      "fixed issue when quiver and inventory icons rendered wrong with left-handed players.",
-      "fixed issue when lang files didn't work."
-    ],
+    "3.2.0": "new Inventory HUD background (with configurable alpha)\\nDisebleable ArmorHUD numbers\\nevery item in ArmorHUD now moveble\\nnew config screen\\nfixed issue when quiver and inventory icons rendered wrong with left-handed players.\\nfixed issue when lang files didn't work.",
     "3.2.1": "fixed issue #24 By  cartenavigom",
     "3.2.2": "fixed issue #27 By Gberqz",
-    "3.3.0": [
-      "added animation for recently picked up items",
-      "added possibility to hide InventoryHUD background if inventory is empty",
-      "changed size of InventoryHUD background",
-      "added new option for ArmorHUD show overall item count for main/off hand",
-      "ArmorHUD is now scalable",
-      "added new horizontal mode for PotionHUD",
-      "added keybind for toggle on/off Potion and Armor HUDs"
-    ],
-    "3.4.0": [
-      "added trinkets support",
-      "added chinese language",
-      "added spanish language",
-      "added notification system for future updates"
-    ],
+    "3.3.0": "added animation for recently picked up items\\nadded possibility to hide InventoryHUD background if inventory is empty\\nchanged size of InventoryHUD background\\nadded new option for ArmorHUD show overall item count for main/off hand\\nArmorHUD is now scalable\\nadded new horizontal mode for PotionHUD\\nadded keybind for toggle on/off Potion and Armor HUDs",
+    "3.4.0": "added trinkets support\\nadded chinese language\\nadded spanish language\\nadded notification system for future updates",
     "3.4.1": "added bar duration setting"
   },
   "1.15.2": {
     "1.3": "Some lang fixes",
     "2.0": "New features: armor damage hud & potions hud",
     "2.1": "Custom effects from most of mods now works correctly",
-    "2.2": [
-      "Now you can change PotionHUD orientation from LEFT to RIGHT",
-      "Now you can change ArmorStatusHUD orientation from MIDDLE to LEFT or RIGHT, also you can change position",
-      "New ConfigGUI"
-    ],
+    "2.2": "Now you can change PotionHUD orientation from LEFT to RIGHT\\nNow you can change ArmorStatusHUD orientation from MIDDLE to LEFT or RIGHT, also you can change position\\nNew ConfigGUI",
     "2.2.1": "Armor orientation fixes and Potion Y pos fixes",
     "2.3": "Now u can hide armor if durability is above what u set in config..",
     "2.4": "new types of Orientation and you can change Orientation of any HUD",
-    "2.5": [
-      "Now PotionHUD shows levels of the effects",
-      "Now you can change alpha of PotionHUD background. Suggested by pyrezombie",
-      "Fixed Issue #3 by SelfyxT"
-    ],
+    "2.5": "Now PotionHUD shows levels of the effects\\nNow you can change alpha of PotionHUD background. Suggested by pyrezombie\\nFixed Issue #3 by SelfyxT",
     "2.6": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config",
     "2.6.1": "Fixed Issue #4 by sandalle",
-    "3.0": [
-      "new mini mode for Potion HUD",
-      "Armor HUD now shows count of arrows in full plus inv mode",
-      "new Ingame config menu, where you can change position of the HUDs and toggle them on/off"
-    ],
+    "3.0": "new mini mode for Potion HUD\\nArmor HUD now shows count of arrows in full plus inv mode\\nnew Ingame config menu, where you can change position of the HUDs and toggle them on/off",
     "3.0.1": " small compatibility fixes.",
-    "3.1.0": [
-      "new vertical mode for InventoryHUD",
-      "new mini mode for InventoryHUD",
-      "PotionHUD now has gap option",
-      "fixed bug when potions was rendering above debug screen",
-      "potion rendering system was reworked, now all potions from any mod should render"
-    ],
-    "3.1.1": [
-      "new colors for armor hud",
-      "fixed issue #8 By just_some_user",
-      "fixed issue #7 By just_some_user",
-      "changed default key binding for options, now 'O'",
-      "key binding for options is now open full config screen instead of changing position"
-    ],
+    "3.1.0": "new vertical mode for InventoryHUD\\nnew mini mode for InventoryHUD\\nPotionHUD now has gap option\\nfixed bug when potions was rendering above debug screen\\npotion rendering system was reworked, now all potions from any mod should render",
+    "3.1.1": "new colors for armor hud\\nfixed issue #8 By just_some_user\\nfixed issue #7 By just_some_user\\nchanged default key binding for options, now 'O'\\nkey binding for options is now open full config screen instead of changing position",
     "3.1.2": "added new option in armor hud config (durability bars)",
-    "3.1.3": [
-      "fixed issue with loading config",
-      "fixed some texts issues"
-    ],
+    "3.1.3": "fixed issue with loading config\\nfixed some texts issues",
     "3.1.4": "fixed issue with potion level icon",
-    "3.2.0": [
-      "new Inventory HUD background (with configurable alpha)",
-      "Disebleable ArmorHUD numbers",
-      "every item in ArmorHUD now moveble",
-      "new config screen",
-      "fixed issue when quiver and inventory icons rendered wrong with left-handed players",
-      "fixed issue when lang files didn't work"
-    ],
+    "3.2.0": "new Inventory HUD background (with configurable alpha)\\nDisebleable ArmorHUD numbers\\nevery item in ArmorHUD now moveble\\nnew config screen\\nfixed issue when quiver and inventory icons rendered wrong with left-handed players\\nfixed issue when lang files didn't work",
     "3.2.1": "fixed issue #24 By  cartenavigom",
-    "3.3.0": [
-      "added animation for recently picked up items",
-      "added possibility to hide InventoryHUD background if inventory is empty",
-      "changed size of InventoryHUD background",
-      "added new option for ArmorHUD show overall item count for main/off hand",
-      "ArmorHUD is now scalable",
-      "added new horizontal mode for PotionHUD",
-      "added keybind for toggle on/off Potion and Armor HUDs"
-    ],
-    "3.4.0": [
-      "added trinkets support",
-      "added chinese language",
-      "added spanish language",
-      "added notification system for future updates"
-    ],
+    "3.3.0": "added animation for recently picked up items\\nadded possibility to hide InventoryHUD background if inventory is empty\\nchanged size of InventoryHUD background\\nadded new option for ArmorHUD show overall item count for main/off hand\\nArmorHUD is now scalable\\nadded new horizontal mode for PotionHUD\\nadded keybind for toggle on/off Potion and Armor HUDs",
+    "3.4.0": "added trinkets support\\nadded chinese language\\nadded spanish language\\nadded notification system for future updates",
     "3.4.1": "added bar duration setting"
   },
   "1.15.1": {
     "1.3": "Some lang fixes",
     "2.0": "New features: armor damage hud & potions hud",
     "2.1": "Custom effects from most of mods now works correctly",
-    "2.2": [
-      "Now you can change PotionHUD orientation from LEFT to RIGHT",
-      "Now you can change ArmorStatusHUD orientation from MIDDLE to LEFT or RIGHT, also you can change position",
-      "New ConfigGUI"
-    ],
+    "2.2": "Now you can change PotionHUD orientation from LEFT to RIGHT\\nNow you can change ArmorStatusHUD orientation from MIDDLE to LEFT or RIGHT, also you can change position\\nNew ConfigGUI",
     "2.2.1": "Armor orientation fixes and Potion Y pos fixes",
     "2.3": "Now u can hide armor if durability is above what u set in config.",
     "2.4": "new types of Orientation and you can change Orientation of any HUD",
-    "2.5": [
-      "Now PotionHUD shows levels of the effects",
-      "Now you can change alpha of PotionHUD background. Suggested by pyrezombie",
-      "Fixed Issue #3 by SelfyxT"
-    ],
+    "2.5": "Now PotionHUD shows levels of the effects\\nNow you can change alpha of PotionHUD background. Suggested by pyrezombie\\nFixed Issue #3 by SelfyxT",
     "2.6": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config",
     "2.6.1": "Fixed Issue #4 by sandalle",
-    "3.0": [
-      "new mini mode for Potion HUD",
-      "Armor HUD now shows count of arrows in full plus inv mode",
-      "new Ingame config menu, where you can change position of the HUDs and toggle them on/off"
-    ],
-    "3.4.0": [
-      "added trinkets support",
-      "added chinese language",
-      "added spanish language",
-      "added notification system for future updates"
-    ],
+    "3.0": "new mini mode for Potion HUD\\nArmor HUD now shows count of arrows in full plus inv mode\\nnew Ingame config menu, where you can change position of the HUDs and toggle them on/off",
+    "3.4.0": "added trinkets support\\nadded chinese language\\nadded spanish language\\nadded notification system for future updates",
     "3.4.1": "added bar duration setting"
   },
   "1.14.4": {
     "1.4": "Some lang fixes",
     "2.0": "New features: armor damage hud & potions hud",
     "2.1": "Now has same features as 1.15 mod",
-    "2.2": [
-      "Now PotionHUD shows levels of the effects",
-      "Now you can change alpha of PotionHUD background. Suggested by pyrezombie",
-      "Fixed Issue #3 by SelfyxT"
-    ],
+    "2.2": "Now PotionHUD shows levels of the effects\\nNow you can change alpha of PotionHUD background. Suggested by pyrezombie\\nFixed Issue #3 by SelfyxT",
     "2.3": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config",
     "2.3.1": "Fixed Issue #4 by sandalle",
-    "3.0": [
-      "new mini mode for Potion HUD",
-      "Armor HUD now shows count of arrows in full plus inv mode",
-      "new Ingame config menu, where you can change position of the HUDs and toggle them on/off"
-    ],
+    "3.0": "new mini mode for Potion HUD\\nArmor HUD now shows count of arrows in full plus inv mode\\nnew Ingame config menu, where you can change position of the HUDs and toggle them on/off",
     "3.0.1": " small compatibility fixes.",
-    "3.1.0": [
-      "new vertical mode for InventoryHUD",
-      "new mini mode for InventoryHUD",
-      "PotionHUD now has gap option",
-      "fixed bug when potions was rendering above debug screen",
-      "potion rendering system was reworked, now all potions from any mod should render"
-    ],
-    "3.1.1": [
-      "new colors for armor hud",
-      "fixed issue #8 By just_some_user",
-      "fixed issue #7 By just_some_user",
-      "changed default key binding for options, now 'O'",
-      "key binding for options is now open full config screen instead of changing position"
-    ],
+    "3.1.0": "new vertical mode for InventoryHUD\\nnew mini mode for InventoryHUD\\nPotionHUD now has gap option\\nfixed bug when potions was rendering above debug screen\\npotion rendering system was reworked, now all potions from any mod should render",
+    "3.1.1": "new colors for armor hud\\nfixed issue #8 By just_some_user\\nfixed issue #7 By just_some_user\\nchanged default key binding for options, now 'O'\\nkey binding for options is now open full config screen instead of changing position",
     "3.2.1": "fixed issue #24 By  cartenavigom",
-    "3.3.0": [
-      "added animation for recently picked up items",
-      "added possibility to hide InventoryHUD background if inventory is empty",
-      "changed size of InventoryHUD background",
-      "added new option for ArmorHUD show overall item count for main/off hand",
-      "ArmorHUD is now scalable",
-      "added new horizontal mode for PotionHUD",
-      "added keybind for toggle on/off Potion and Armor HUDs"
-    ]
+    "3.3.0": "added animation for recently picked up items\\nadded possibility to hide InventoryHUD background if inventory is empty\\nchanged size of InventoryHUD background\\nadded new option for ArmorHUD show overall item count for main/off hand\\nArmorHUD is now scalable\\nadded new horizontal mode for PotionHUD\\nadded keybind for toggle on/off Potion and Armor HUDs"
   },
   "1.12.2": {
     "1.0": "First release on 1.12.2",
     "1.1": "Potion icons fixes",
-    "1.2": [
-      "Now PotionHUD shows levels of the effects",
-      "Now you can change alpha of PotionHUD background. Suggested by pyrezombie",
-      "PotionHUD support even more mods now",
-      "Fixed Issue #3 by SelfyxT"
-    ],
+    "1.2": "Now PotionHUD shows levels of the effects\\nNow you can change alpha of PotionHUD background. Suggested by pyrezombie\\nPotionHUD support even more mods now\\nFixed Issue #3 by SelfyxT",
     "1.2.1": "added more mods for PotionHUD",
     "1.3": "ArmorStatus HUD now contains main and off hand items, and also counter of inventory empty slots, you can switch type and durability view via config",
     "1.3.1": "Fixed Issue #4 by sandalle",
     "1.3.2": "Crash fixes!!!",
-    "3.0.1": [
-      "new mini mode for Potion HUD",
-      "Armor HUD now shows count of arrows in full plus inv mode",
-      "new Ingame config menu, where you can change position of the HUDs and toggle them on/off",
-      "mod config screen now the same as in 1.14.4+ versions"
-    ],
-    "3.1.0": [
-      "new vertical mode for InventoryHUD",
-      "new mini mode for InventoryHUD",
-      "PotionHUD now has gap option"
-    ],
+    "3.0.1": "new mini mode for Potion HUD\\nArmor HUD now shows count of arrows in full plus inv mode\\nnew Ingame config menu, where you can change position of the HUDs and toggle them on/off\\nmod config screen now the same as in 1.14.4+ versions",
+    "3.1.0": "new vertical mode for InventoryHUD\\nnew mini mode for InventoryHUD\\nPotionHUD now has gap option",
     "3.1.1": "fixed bug when bag and quiver had wrong color, thx Ackmard for report!",
     "3.1.2": "fixed issue when mod was spamming logs",
-    "3.1.3": [
-      "Reworked potion icon rendering",
-      "fixed issue #8 By just_some_user",
-      "fixed issue #7 By just_some_user",
-      "changed default key binding for options, now 'O'",
-      "key binding for options is now open full config screen instead of changing position"
-    ],
+    "3.1.3": "Reworked potion icon rendering\\nfixed issue #8 By just_some_user\\nfixed issue #7 By just_some_user\\nchanged default key binding for options, now 'O'\\nkey binding for options is now open full config screen instead of changing position",
     "3.1.4": "new colors for armorhud",
-    "3.1.5": [
-      "corail tombstones potion effects now has icons",
-      "added new option in armor hud config (durability bars)"
-    ],
-    "3.1.6": [
-      "fixed issue #11 By  just_some_user",
-      "fixed issue #12 By  NoAim_Chomsky"
-    ],
+    "3.1.5": "corail tombstones potion effects now has icons\\nadded new option in armor hud config (durability bars)",
+    "3.1.6": "fixed issue #11 By  just_some_user\\nfixed issue #12 By  NoAim_Chomsky",
     "3.1.7": "added two more mods to potionhud integration",
     "3.1.9": "fixed issue with potion level icon",
-    "3.2.0": [
-      "new Inventory HUD background (with configurable alpha)",
-      "Disebleable ArmorHUD numbers",
-      "every item in ArmorHUD now moveble",
-      "new config screen",
-      "fixed issue when quiver and inventory icons rendered wrong with left-handed players",
-      "fixed issue when lang files didn't work"
-    ],
+    "3.2.0": "new Inventory HUD background (with configurable alpha)\\nDisebleable ArmorHUD numbers\\nevery item in ArmorHUD now moveble\\nnew config screen\\nfixed issue when quiver and inventory icons rendered wrong with left-handed players\\nfixed issue when lang files didn't work",
     "3.2.1": "fixed issue #24 By  cartenavigom",
-    "3.3.0": [
-      "added animation for recently picked up items",
-      "added possibility to hide InventoryHUD background if inventory is empty",
-      "changed size of InventoryHUD background",
-      "added new option for ArmorHUD show overall item count for main/off hand",
-      "ArmorHUD is now scalable",
-      "added new horizontal mode for PotionHUD",
-      "added keybind for toggle on/off Potion and Armor HUDs",
-      "added one more mod for PotionHUD integration"
-    ],
+    "3.3.0": "added animation for recently picked up items\\nadded possibility to hide InventoryHUD background if inventory is empty\\nchanged size of InventoryHUD background\\nadded new option for ArmorHUD show overall item count for main/off hand\\nArmorHUD is now scalable\\nadded new horizontal mode for PotionHUD\\nadded keybind for toggle on/off Potion and Armor HUDs\\nadded one more mod for PotionHUD integration",
     "3.3.1": "fixed issue #33 By  TCreopargh",
-    "3.4.0": [
-      "added trinkets support",
-      "added chinese language",
-      "added spanish language",
-      "added notification system for future updates"
-    ],
-    "3.4.1": [
-      "added bar duration setting",
-      "more mods support potion hud"
-    ],
-    "3.4.4": [
-      "fixed version check",
-      "added more mods for potion hud"
-    ]
+    "3.4.0": "added trinkets support\\nadded chinese language\\nadded spanish language\\nadded notification system for future updates",
+    "3.4.1": "added bar duration setting\\nmore mods support potion hud",
+    "3.4.4": "fixed version check\\nadded more mods for potion hud"
   },
   "1.8.9": {
     "3.1.0": "RELEASE!",
     "3.1.1": "fixed issue with potion level icon",
-    "3.2.0": [
-      "new Inventory HUD background (with configurable alpha)",
-      "Disebleable ArmorHUD numbers",
-      "every item in ArmorHUD now moveble",
-      "new config screen",
-      "fixed issue when quiver and inventory icons rendered wrong with left-handed players",
-      "fixed issue when lang files didn't work"
-    ],
+    "3.2.0": "new Inventory HUD background (with configurable alpha)\\nDisebleable ArmorHUD numbers\\nevery item in ArmorHUD now moveble\\nnew config screen\\nfixed issue when quiver and inventory icons rendered wrong with left-handed players\\nfixed issue when lang files didn't work",
     "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "promos": {
