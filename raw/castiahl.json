@@ -1,0 +1,81 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/castia-tier-highlighter",
+  "1.17": {
+    "2.4.0": "Added Auction Tools",
+    "2.4.2": [
+      "fixed issue when auction doesn't finish if you leave server via /hub or when server is restarting",
+      "added more information about item in auction screen"
+    ]
+  },
+  "1.17.1": {
+    "2.4.0": "Added Auction Tools",
+    "2.4.2": [
+      "fixed issue when auction doesn't finish if you leave server via /hub or when server is restarting",
+      "added more information about item in auction screen"
+    ]
+  },
+  "1.16.2": {
+    "2.3.4": "added option to keep Castian Icon red",
+    "2.4.0": "Added Auction Tools",
+    "2.4.2": [
+      "fixed issue when auction doesn't finish if you leave server via /hub or when server is restarting",
+      "added more information about item in auction screen"
+    ]
+  },
+  "1.16.3": {
+    "2.3.4": "added option to keep Castian Icon red",
+    "2.4.0": "Added Auction Tools",
+    "2.4.2": [
+      "fixed issue when auction doesn't finish if you leave server via /hub or when server is restarting",
+      "added more information about item in auction screen"
+    ]
+  },
+  "1.16.4": {
+    "2.3.4": "added option to keep Castian Icon red",
+    "2.4.0": "Added Auction Tools",
+    "2.4.2": [
+      "fixed issue when auction doesn't finish if you leave server via /hub or when server is restarting",
+      "added more information about item in auction screen"
+    ]
+  },
+  "1.16.5": {
+    "2.3.4": "added option to keep Castian Icon red",
+    "2.4.0": "Added Auction Tools",
+    "2.4.2": [
+      "fixed issue when auction doesn't finish if you leave server via /hub or when server is restarting",
+      "added more information about item in auction screen"
+    ]
+  },
+  "1.15.1": {
+    "1.1": "kind of optiomization, and 1.15.1 support",
+    "2.0": "added Inventory tools",
+    "2.1": "Now you open last closed private vault with buttons instead of always first private vault",
+    "2.1.1": "added Inventory HUD+ v2.4 support",
+    "2.1.2": "added Inventory HUD+ v3.0 support"
+  },
+  "1.15.2": {
+    "2.0": "added Inventory tools",
+    "2.1": "Now you open last closed private vault with buttons instead of always first private vault",
+    "2.1.1": "added Inventory HUD+ v2.4 support",
+    "2.1.2": "added Inventory HUD+ v3.0 support",
+    "2.1.3": "fixed bug when you can't run minecraft without InventoryHUD+ forge mod."
+  },
+  "promos": {
+    "1.17-latest": "2.4.2",
+    "1.17.1-latest": "2.4.2",
+    "1.17-recommended": "2.4.2",
+    "1.17.1-recommended": "2.4.2",
+    "1.16.2-latest": "2.4.2",
+    "1.16.2-recommended": "2.4.2",
+    "1.16.3-latest": "2.4.2",
+    "1.16.3-recommended": "2.4.2",
+    "1.16.4-latest": "2.4.2",
+    "1.16.4-recommended": "2.4.2",
+    "1.16.5-latest": "2.4.2",
+    "1.16.5-recommended": "2.4.2",
+    "1.15.1-latest": "2.1.2",
+    "1.15.1-recommended": "2.1.2",
+    "1.15.2-latest": "2.1.3",
+    "1.15.2-recommended": "2.1.3"
+  }
+}
