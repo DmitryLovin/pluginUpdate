@@ -1,44 +1,32 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/are-you-blind",
-  "1.19":{
+  "1.19": {
     "1.1.0": "1.19 release",
     "1.1.1": "new forge registries"
   },
-  "1.18.1":{
+  "1.18.1": {
     "1.1.0": "1.18 release"
   },
-  "1.18":{
+  "1.18": {
     "1.1.0": "1.18 release"
   },
-  "1.17.1":{
-    "1.1.0": "fully reworked glowing algorithm
-changeable glowing color
-added config screen"
+  "1.17.1": {
+    "1.1.0": "fully reworked glowing algorithm\nchangeable glowing color\nadded config screen"
   },
-  "1.17":{
-    "1.1.0": "fully reworked glowing algorithm
-changeable glowing color
-added config screen"
+  "1.17": {
+    "1.1.0": "fully reworked glowing algorithm\nchangeable glowing color\nadded config screen"
   },
   "1.16.2": {
-    "1.1.0": "fully reworked glowing algorithm
-changeable glowing color
-added config screen"
+    "1.1.0": "fully reworked glowing algorithm\nchangeable glowing color\nadded config screen"
   },
   "1.16.3": {
-    "1.1.0": "fully reworked glowing algorithm
-changeable glowing color
-added config screen"
+    "1.1.0": "fully reworked glowing algorithm\nchangeable glowing color\nadded config screen"
   },
   "1.16.4": {
-    "1.1.0": "fully reworked glowing algorithm
-changeable glowing color
-added config screen"
+    "1.1.0": "fully reworked glowing algorithm\nchangeable glowing color\nadded config screen"
   },
   "1.16.5": {
-    "1.1.0": "fully reworked glowing algorithm
-changeable glowing color
-added config screen"
+    "1.1.0": "fully reworked glowing algorithm\nchangeable glowing color\nadded config screen"
   },
   "1.15.1": {
     "1.0.1": "kind of optiomization, and 1.15.1 support",
