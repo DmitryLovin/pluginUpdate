@@ -1,0 +1,21 @@
+{
+  "key.signtools.category": "Sign Tools",
+  "key.signtools.copysign": "Copy sign",
+  "key.signtools.autopaste": "Auto Paste",
+  "signtools.gui.copy": "Copy",
+  "signtools.gui.paste": "Paste",
+  "signtools.gui.cut": "Cut",
+  "signtools.gui.up": "Up",
+  "signtools.gui.down": "Down",
+  "signtools.gui.copysign": "Copy sign",
+  "signtools.gui.pastesign": "Paste sign",
+  "signtools.gui.show": "Show Sign Tools",
+  "signtools.gui.hide": "Hide Sign Tools",
+  "signtools.gui.copied": "Sign copied",
+  "signtools.gui.buffert": "Text in buffer: ",
+  "signtools.gui.buffers": "Sign in buffer:",
+  "signtools.gui.colorcode": "Use color codes",
+  "signtools.gui.autopaste": "Auto-paste: ",
+  "signtools.gui.autopaste.on": "enabled",
+  "signtools.gui.autopaste.off": "disabled"
+}

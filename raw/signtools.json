@@ -1,5 +1,17 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/sign-tools",
+  "1.20.1": {
+    "1.0.3": "release"
+  },
+  "1.20": {
+    "1.0.3": "release"
+  },
+  "1.19.4": {
+    "1.0.3": "release"
+  },
+  "1.18.2": {
+    "1.0.1": "release"
+  },
   "1.17.1":{
     "1.0.0": "released"
   },
@@ -19,6 +31,18 @@
     "1.0.0": "released"
   },
   "promos": {
+    "1.20.1-latest": "1.0.3",
+    "1.20.1recommended": "1.0.3",
+    "1.20.1-fabric": "1.0.3",
+    "1.20-latest": "1.0.3",
+    "1.20-recommended": "1.0.3",
+    "1.20-fabric": "1.0.3",
+    "1.19.4-latest": "1.0.3",
+    "1.19.4-recommended": "1.0.3",
+    "1.19.4-fabric": "1.0.3",
+    "1.18.2-latest": "1.0.1",
+    "1.18.2-recommended": "1.0.1",
+    "1.18.2-fabric": "1.0.0",
     "1.17.1-latest": "1.0.0",
     "1.17.1-recommended": "1.0.0",
     "1.17.1-fabric": "1.0.0",
