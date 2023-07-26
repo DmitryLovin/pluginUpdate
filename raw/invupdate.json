@@ -69,7 +69,8 @@
       "new option to hide arrows count when now weapon in your hands",
       "new option to show effect levels higher than 9"
     ],
-    "3.4.15": "Italian translation"
+    "3.4.15": "Italian translation",
+    "3.4.16": "fixed save function for numeric text field. related to issue #118 By  guyguy18123"
   },
   "1.18.1": {
     "3.4.2": "1.18.1",
@@ -569,7 +570,7 @@
     "1.19-fabric": "3.4.2",
     "1.18.2-latest": "3.4.15",
     "1.18.2-recommended": "3.4.15",
-    "1.18.2-fabric": "3.4.15",
+    "1.18.2-fabric": "3.4.16",
     "1.18.1-latest": "3.4.4",
     "1.18.1-recommended": "3.4.4",
     "1.18.1-fabric": "3.4.2",
