@@ -1,5 +1,12 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/castia-tier-highlighter",
+  "1.20.1": {
+    "2.5.0": "1.20.1 release",
+    "2.5.1": "server ip whitelist is not case sensitive anymore",
+    "2.6.0": "town vault buttons and /condense key bind",
+    "2.7.0": "emoji buttons",
+    "2.7.1": "default pv and tv pages fix"
+  },
   "1.17": {
     "2.4.0": "Added Auction Tools",
     "2.4.2": "fixed issue when auction doesn't finish if you leave server via /hub or when server is restarting\nadded more information about item in auction screen"
@@ -43,6 +50,9 @@
     "2.1.3": "fixed bug when you can't run minecraft without InventoryHUD+ forge mod."
   },
   "promos": {
+    "1.20.1-latest": "2.7.1",
+    "1.20.1-recommended": "2.7.1",
+    "1.20.1-fabric": "2.7.1",
     "1.17-latest": "2.4.2",
     "1.17.1-latest": "2.4.2",
     "1.17-recommended": "2.4.2",
