@@ -1,5 +1,11 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
+  "1.21": {
+    "3.4.21": "1.21 release"
+  },
+  "1.20.6": {
+    "3.4.21": "1.20.6 release"
+  },
   "1.20.4": {
     "3.4.19": "1.20.3 release",
     "3.4.20": "fixed issue #130 By sporefreak when mod keybinds trigger everywhere"
@@ -565,6 +571,12 @@
     "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "promos": {
+    "1.21-latest": "3.4.20",
+    "1.21-recommended": "3.4.20",
+    "1.21-fabric": "3.4.19",
+    "1.20.6-latest": "3.4.21",
+    "1.20.6-recommended": "3.4.21",
+    "1.20.6-fabric": "3.4.21",
     "1.20.4-latest": "3.4.20",
     "1.20.4-recommended": "3.4.20",
     "1.20.4-fabric": "3.4.19",
