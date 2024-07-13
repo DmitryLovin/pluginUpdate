@@ -6,6 +6,11 @@
       "added Turkish language",
       "added Portuguese language",
       "some render fixes"
+    ],
+    "3.4.23": [
+      "added Hungarian language",
+      "added Ukrainian language",
+      "small config GUI fix"
     ]
   },
   "1.20.6": {
@@ -14,6 +19,11 @@
       "added Turkish language",
       "added Portuguese language",
       "some render fixes"
+    ],
+    "3.4.23": [
+      "added Hungarian language",
+      "added Ukrainian language",
+      "small config GUI fix"
     ]
   },
   "1.20.4": {
@@ -23,6 +33,11 @@
       "added Turkish language",
       "added Portuguese language",
       "some render fixes"
+    ],
+    "3.4.23": [
+      "added Hungarian language",
+      "added Ukrainian language",
+      "small config GUI fix"
     ]
   },
   "1.20.3": {
@@ -45,6 +60,11 @@
       "added Turkish language",
       "added Portuguese language",
       "some render fixes"
+    ],
+    "3.4.23": [
+      "added Hungarian language",
+      "added Ukrainian language",
+      "small config GUI fix"
     ]
   },
   "1.20": {
@@ -61,6 +81,11 @@
       "added Turkish language",
       "added Portuguese language",
       "some render fixes"
+    ],
+    "3.4.23": [
+      "added Hungarian language",
+      "added Ukrainian language",
+      "small config GUI fix"
     ]
   },
   "1.19.4": {
@@ -85,6 +110,11 @@
       "added Turkish language",
       "added Portuguese language",
       "some render fixes"
+    ],
+    "3.4.23": [
+      "added Hungarian language",
+      "added Ukrainian language",
+      "small config GUI fix"
     ]
   },
   "1.19.3": {
@@ -93,7 +123,12 @@
   },
   "1.19.2": {
     "3.4.6": "new forge registris",
-    "3.4.7": "cross version for 1.19.2 and 1.19.3"
+    "3.4.7": "cross version for 1.19.2 and 1.19.3",
+    "3.4.23": [
+      "added Hungarian language",
+      "added Ukrainian language",
+      "small config GUI fix"
+    ]
   },
   "1.19.1": {
     "3.4.6": "new forge registris"
@@ -129,6 +164,11 @@
       "added Turkish language",
       "added Portuguese language",
       "some render fixes"
+    ],
+    "3.4.23": [
+      "added Hungarian language",
+      "added Ukrainian language",
+      "small config GUI fix"
     ]
   },
   "1.18.1": {
@@ -606,45 +646,45 @@
     "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "promos": {
-    "1.21-latest": "3.4.22",
-    "1.21-recommended": "3.4.22",
-    "1.21-fabric": "3.4.22",
-    "1.20.6-latest": "3.4.22",
-    "1.20.6-recommended": "3.4.22",
-    "1.20.6-fabric": "3.4.22",
-    "1.20.4-latest": "3.4.22",
-    "1.20.4-recommended": "3.4.22",
-    "1.20.4-fabric": "3.4.22",
+    "1.21-latest": "3.4.23",
+    "1.21-recommended": "3.4.23",
+    "1.21-fabric": "3.4.23",
+    "1.20.6-latest": "3.4.23",
+    "1.20.6-recommended": "3.4.23",
+    "1.20.6-fabric": "3.4.23",
+    "1.20.4-latest": "3.4.23",
+    "1.20.4-recommended": "3.4.23",
+    "1.20.4-fabric": "3.4.23",
     "1.20.3-latest": "3.4.19",
     "1.20.3-recommended": "3.4.19",
     "1.20.3-fabric": "3.4.19",
     "1.20.2-latest": "3.4.19",
     "1.20.2-recommended": "3.4.19",
     "1.20.2-fabric": "3.4.19",
-    "1.20.1-latest": "3.4.22",
-    "1.20.1-recommended": "3.4.22",
-    "1.20.1-fabric": "3.4.22",
-    "1.20-latest": "3.4.22",
-    "1.20-recommended": "3.4.22",
-    "1.20-fabric": "3.4.22",
-    "1.19.4-latest": "3.4.22",
-    "1.19.4-recommended": "3.4.22",
-    "1.19.4-fabric": "3.4.22",
+    "1.20.1-latest": "3.4.23",
+    "1.20.1-recommended": "3.4.23",
+    "1.20.1-fabric": "3.4.23",
+    "1.20-latest": "3.4.23",
+    "1.20-recommended": "3.4.23",
+    "1.20-fabric": "3.4.23",
+    "1.19.4-latest": "3.4.23",
+    "1.19.4-recommended": "3.4.23",
+    "1.19.4-fabric": "3.4.23",
     "1.19.3-latest": "3.4.7",
     "1.19.3-recommended": "3.4.7",
     "1.19.3-fabric": "3.4.7",
-    "1.19.2-latest": "3.4.7",
-    "1.19.2-recommended": "3.4.7",
-    "1.19.2-fabric": "3.4.7",
+    "1.19.2-latest": "3.4.23",
+    "1.19.2-recommended": "3.4.23",
+    "1.19.2-fabric": "3.4.23",
     "1.19.1-latest": "3.4.6",
     "1.19.1-recommended": "3.4.6",
     "1.19.1-fabric": "3.4.2",
     "1.19-latest": "3.4.6",
     "1.19-recommended": "3.4.6",
     "1.19-fabric": "3.4.2",
-    "1.18.2-latest": "3.4.22",
-    "1.18.2-recommended": "3.4.22",
-    "1.18.2-fabric": "3.4.22",
+    "1.18.2-latest": "3.4.23",
+    "1.18.2-recommended": "3.4.23",
+    "1.18.2-fabric": "3.4.23",
     "1.18.1-latest": "3.4.4",
     "1.18.1-recommended": "3.4.4",
     "1.18.1-fabric": "3.4.2",
