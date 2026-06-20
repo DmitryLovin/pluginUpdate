@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "Відображає інвентар на екрані під час гри.",
 
-  "key.inventoryhud.category": "Inventory HUD+",
+  "key.category.inventoryhud.main": "Inventory HUD+",
   "key.inventoryhud.toggle": "Перемикає режим відображення Inventory HUD+ ON/OFF",
   "key.inventoryhud.openconfig": "Відкрити налаштування",
   "config.inventoryhud.category.armorhud": "HUD Броні",

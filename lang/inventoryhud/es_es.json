@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "Muestra el inventario en pantalla mientras juegas.",
 
-  "key.inventoryhud.category": "Inventory HUD+",
+  "key.category.inventoryhud.main": "Inventory HUD+",
   "key.inventoryhud.toggle": "Activar/desactivar InventoryHUD",
   "key.inventoryhud.openconfig": "Abrir configuración",
   "config.inventoryhud.category.armorhud": "HUD de estado de armadura",

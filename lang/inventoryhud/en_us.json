@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "Displays inventory on screen while playing.",
 
-  "key.inventoryhud.category": "Inventory HUD+",
+  "key.category.inventoryhud.main": "Inventory HUD+",
   "key.inventoryhud.toggle": "Toggle InventoryHUD on/off",
   "key.inventoryhud.openconfig": "Open config",
   "config.inventoryhud.category.armorhud": "ArmorStatus HUD",

@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "玩游戏时在屏幕上显示库存。",
 
-  "key.inventoryhud.category": "Inventory HUD+",
+  "key.category.inventoryhud.main": "Inventory HUD+",
   "key.inventoryhud.toggle": "打开/关闭 InventoryHUD",
   "key.inventoryhud.openconfig": "打开配置",
   "config.inventoryhud.category.armorhud": "盔甲 HUD",

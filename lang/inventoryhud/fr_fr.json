@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "Affiche l'inventaire à l'écran pendant la lecture.",
 
-  "key.inventoryhud.category": "Inventaire HUD+",
+  "key.category.inventoryhud.main": "Inventaire HUD+",
   "key.inventoryhud.toggle": "Activée/désactiver l'Inventaire HUD",
   "key.inventoryhud.openconfig": "Ouvrir la configuration",
   "config.inventoryhud.category.armorhud": "Armure Status HUD",

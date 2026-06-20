@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "Отображает инвентарь на экране во время игры.",
 
-  "key.inventoryhud.category": "Inventory HUD+",
+  "key.category.inventoryhud.main": "Inventory HUD+",
   "key.inventoryhud.toggle": "Включить/выключить панель инвентаря",
   "key.inventoryhud.openconfig": "Открыть настройки",
   "config.inventoryhud.category.armorhud": "Панель брони",

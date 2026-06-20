@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "A tárhely tartalmát megjeleníti a képernyőn.",
 
-  "key.inventoryhud.category": "Inventory HUD+",
+  "key.category.inventoryhud.main": "Inventory HUD+",
   "key.inventoryhud.toggle": "Tárhely HUD megjelenítése be/ki",
   "key.inventoryhud.openconfig": "Beállítások megnyitása",
   "config.inventoryhud.category.armorhud": "Páncél állapot HUD",

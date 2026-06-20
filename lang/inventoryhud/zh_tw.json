@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "遊玩時在畫面上顯示物品欄。",
 
-  "key.inventoryhud.category": "Inventory HUD+",
+  "key.category.inventoryhud.main": "Inventory HUD+",
   "key.inventoryhud.toggle": "切換 InventoryHUD 開／關",
   "key.inventoryhud.openconfig": "開啟設定",
   "config.inventoryhud.category.armorhud": "盔甲狀態 HUD",

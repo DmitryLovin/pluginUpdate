@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "Oyunu oynarken envanteri ekranda gösterir.",
 
-  "key.inventoryhud.category": "Inventory HUD+",
+  "key.category.inventoryhud.main": "Inventory HUD+",
   "key.inventoryhud.toggle": "Envanter Arayüzü'nü aç/kapat",
   "key.inventoryhud.openconfig": "Ayarları aç.",
   "config.inventoryhud.category.armorhud": "Zırh Durumu Arayüzü",

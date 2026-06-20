@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "プレイ中の画面にインベントリを表示します．",
 
-  "key.inventoryhud.category": "Inventory HUD+",
+  "key.category.inventoryhud.main": "Inventory HUD+",
   "key.inventoryhud.toggle": "インベントリHUDの表示切替",
   "key.inventoryhud.openconfig": "設定画面を開く",
   "config.inventoryhud.category.armorhud": "防具HUD",
