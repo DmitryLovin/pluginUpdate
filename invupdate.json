@@ -1,5 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
+  "26.3": {
+    "3.4.37": "Fixed a crash on world join with NeoForge 26.3.0.53-beta and newer\nFixed the missing mod icon in the NeoForge mod list\nNow requires NeoForge 26.3.0.53-beta or newer\nFixed the Italian mod description, which was in French\nUpdated the Traditional Chinese translation"
+  },
   "1.21.5": {
     "3.4.27": "1.21.5 release"
   },
@@ -284,6 +287,9 @@
     "3.2.1": "fixed issue #24 By  cartenavigom"
   },
   "promos": {
+    "26.3-latest": "3.4.37",
+    "26.3-recommended": "3.4.37",
+    "26.3-fabric": "3.4.37",
     "1.21.5-latest": "3.4.27",
     "1.21.5-recommended": "3.4.27",
     "1.21.5-fabric": "3.4.27",
