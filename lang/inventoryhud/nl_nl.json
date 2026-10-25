@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "Toont de inventaris op het scherm tijdens het spelen.",
 
-  "key.inventoryhud.category": "Inventaris HUD+",
+  "key.category.inventoryhud.main": "Inventaris HUD+",
   "key.inventoryhud.toggle": "Schakel InventarisHUD aan/uit",
   "key.inventoryhud.openconfig": "Configuratie openen",
   "config.inventoryhud.category.armorhud": "ArmorStatus HUD",

@@ -1,6 +1,6 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "Kuvab mängimise ajal ekraanil inventari.",
-  "key.inventoryhud.category": "Inventory HUD+",
+  "key.category.inventoryhud.main": "Inventory HUD+",
   "key.inventoryhud.toggle": "Lülita InventoryHUD sisse/välja",
   "key.inventoryhud.openconfig": "Ava seaded",
   "config.inventoryhud.category.armorhud": "Rüü oleku HUD",

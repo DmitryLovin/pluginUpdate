@@ -1,7 +1,7 @@
 {
   "modmenu.descriptionTranslation.inventoryhud": "Wyświetla Hud z informacjami o ekwipunku, zbroi i efektach",
 
-  "key.inventoryhud.category": "HUD ekwipunku",
+  "key.category.inventoryhud.main": "HUD ekwipunku",
   "key.inventoryhud.toggle": "włącz/wyłącz HUD ekwipunku",
   "key.inventoryhud.openconfig": "Otwórz konfigurację",
   "config.inventoryhud.category.armorhud": "HUD Statusu Zbroi",
