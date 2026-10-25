@@ -7,7 +7,8 @@
       "Now requires NeoForge 26.3.0.53-beta or newer",
       "Fixed the Italian mod description, which was in French",
       "Updated the Traditional Chinese translation",
-      "Fixed the keybind category name not being translated in Dutch, Polish and Estonian"
+      "Fixed the keybind category name not being translated in Dutch, Polish and Estonian",
+      "Fixed the arrows without weapon tooltip not being translated in Hungarian"
     ]
   },
   "1.21.5": {

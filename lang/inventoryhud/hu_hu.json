@@ -93,8 +93,7 @@
   "inventoryhud.config.gui.armdebug.tt": "Páncél HUD felülete látszik a hibakereső képernyővel is (F3)",
 
   "inventoryhud.config.gui.arrowswithoutweapon": "Nyilak fegyver nélkül:",
-  "inventoryhud.config.gui.arrowswithoutweapon.tt.1": "A nyílvesszők darabszáma folyamatosan látszik,",
-  "inventoryhud.config.gui.arrowswithoutweapon.tt.2": "még ha nincs is fegyver a kézben",
+  "inventoryhud.config.gui.arrowswithoutweapon.tt": "A nyílvesszők darabszáma folyamatosan látszik, még ha nincs is fegyver a kézben",
 
   "inventoryhud.config.gui.potionlevels": "Szintek:",
   "inventoryhud.config.gui.potionlevels.tt.1": "Minden effektus szint megjelenítése",
